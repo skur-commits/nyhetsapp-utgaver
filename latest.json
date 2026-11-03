@@ -1,74 +1,150 @@
 {
   "schemaVersion": 1,
   "edition": "morgen",
-  "generatedAt": "2026-11-02T17:11:21.787Z",
-  "articleCount": 354,
-  "storyCount": 278,
+  "generatedAt": "2026-11-03T15:17:14.653Z",
+  "articleCount": 366,
+  "storyCount": 296,
   "top": [
     {
-      "id": "s76",
-      "headline": "Oslo tingrett vil løslate Marius Borg Høiby",
-      "headlineSource": "aftenposten",
-      "sourceCount": 6,
-      "score": 5.59,
-      "updated": "2026-11-02T17:06:50.000Z",
+      "id": "s288",
+      "headline": "Norsk varehus tror det er rammet av hackerangrep",
+      "headlineSource": "e24",
+      "sourceCount": 4,
+      "score": 4.24,
+      "updated": "2026-11-03T15:13:51.000Z",
       "tags": [
-        "krim",
-        "okonomi",
-        "beredskap"
+        "teknologi"
+      ],
+      "articles": [
+        {
+          "source": "nrk",
+          "sourceName": "NRK",
+          "title": "Mulig hackerangrep mot norsk varehus: – Skade av betydelig omfang",
+          "url": "https://www.nrk.no/stor-oslo/mulig-hackerangrep-mot-norsk-varehus_-_-skade-av-betydelig-omfang-1.18072469",
+          "published": "2026-11-03T14:59:27.000Z"
+        },
+        {
+          "source": "aftenposten",
+          "sourceName": "Aftenposten",
+          "title": "NRK: Mulig hackerangrep mot varehus i Norge",
+          "url": "https://www.aftenposten.no/norge/i/MAOlX5/nrk-mulig-hackerangrep-mot-varehus-i-norge?utm_medium=rss",
+          "published": "2026-11-03T15:09:33.000Z"
+        },
+        {
+          "source": "vg",
+          "sourceName": "VG",
+          "title": "Norsk varehus tror det er rammet av hackerangrep",
+          "url": "https://www.vg.no/i/rMo7R8/norsk-varehus-tror-det-er-rammet-av-hackerangrep-melder-nrk",
+          "published": "2026-11-03T15:13:51.000Z"
+        },
+        {
+          "source": "e24",
+          "sourceName": "E24",
+          "title": "Norsk varehus tror det er rammet av hackerangrep",
+          "url": "https://e24.no/norsk-oekonomi/i/d7yE8B/norsk-varehus-tror-det-er-rammet-av-hackerangrep-melder-nrk?utm_medium=rss",
+          "published": "2026-11-03T15:13:49.000Z",
+          "sameAs": "VG"
+        },
+        {
+          "source": "nettavisen",
+          "sourceName": "Nettavisen",
+          "title": "Mistenker hackerangrep mot norsk varehus: – Betydelig skade",
+          "url": "https://www.nettavisen.no/nyheter/mistenker-hackerangrep-mot-norsk-varehus-betydelig-skade/s/80-95-216548",
+          "published": "2026-11-03T15:10:12.000Z"
+        }
+      ]
+    },
+    {
+      "id": "s256",
+      "headline": "Terje Rød-Larsen og Mona Juuls eksklusive Frogner-leilighet er solgt for 26 millioner kroner",
+      "headlineSource": "dn",
+      "sourceCount": 4,
+      "score": 3.74,
+      "updated": "2026-11-03T14:05:04.000Z",
+      "tags": [
+        "okonomi"
       ],
       "articles": [
         {
           "source": "aftenposten",
           "sourceName": "Aftenposten",
-          "title": "Oslo tingrett vil løslate Marius Borg Høiby",
-          "url": "https://www.aftenposten.no/norge/i/xlLpdR/marius-borg-hoeiby-vil-loeslates-fra-varetekt-paa-skaugum-aktor-mener-omstendigheter-den-siste-tiden-gjoer-at-tiden-ikke-er-moden?utm_medium=rss",
-          "published": "2026-11-02T16:00:20.000Z"
+          "title": "Rød-Larsens og Juuls Frogner-leilighet er solgt for 26 mill. kroner",
+          "url": "https://e24.no/i/zlajo9?utm_medium=rss",
+          "published": "2026-11-03T13:59:18.000Z"
         },
         {
-          "source": "tv2",
-          "sourceName": "TV 2",
-          "title": "Tingretten vil løslate Høiby",
-          "url": "https://www.tv2.no/a/19385740",
-          "published": "2026-11-02T15:59:10.000Z"
+          "source": "e24",
+          "sourceName": "E24",
+          "title": "Rød-Larsens og Juuls Frogner-leilighet er solgt for 26 mill. kroner",
+          "url": "https://e24.no/norsk-oekonomi/i/zlajo9/roed-larsen-og-juuls-frogner-leilighet-er-solgt-for-26-mill-kroner?utm_medium=rss",
+          "published": "2026-11-03T13:59:14.000Z",
+          "sameAs": "Aftenposten"
         },
         {
-          "source": "nettavisen",
-          "sourceName": "Nettavisen",
-          "title": "Retten: – Han evner å holde seg unna rus",
-          "url": "https://www.nettavisen.no/nyheter/retten-han-evner-a-holde-seg-unna-rus/s/80-95-213470",
-          "published": "2026-11-02T17:06:50.000Z"
-        },
-        {
-          "source": "bt",
-          "sourceName": "BT",
-          "title": "Tingretten vil løslate Høiby fra varetekt – politiet anker",
-          "url": "https://www.bt.no/innenriks/i/4O96rV/vg-og-tv-2-oslo-tingrett-vil-loeslate-marius-borg-hoeiby-fra-varetekt?utm_medium=rss",
-          "published": "2026-11-02T16:04:59.000Z"
+          "source": "dn",
+          "sourceName": "DN",
+          "title": "Terje Rød-Larsen og Mona Juuls eksklusive Frogner-leilighet er solgt for 26 millioner kroner",
+          "url": "https://www.dn.no/eiendom/boligmarkedet/mona-juul/terje-rod-larsen/terje-rod-larsen-og-mona-juuls-eksklusive-frogner-leilighet-er-solgt-for-26-millioner-kroner/2-1-2060792",
+          "published": "2026-11-03T13:40:50.000Z"
         },
         {
           "source": "dagbladet",
           "sourceName": "Dagbladet",
-          "title": "- Han er veldig, veldig fornøyd",
-          "url": "https://www.dagbladet.no/nyheter/moter-i-retten/85367569",
-          "published": "2026-11-02T08:10:47.000Z"
+          "title": "Har kjøpt Rød-Larsen og Juuls leilighet",
+          "url": "https://borsen.dagbladet.no/nyheter/roper-ny-eier/85374575",
+          "published": "2026-11-03T14:05:04.000Z"
         },
         {
-          "source": "abc",
-          "sourceName": "ABC Nyheter",
-          "title": "Vil løslate Høiby",
-          "url": "https://www.abcnyheter.no/nyheter/medier-oslo-tingrett-vil-loslate-marius-borg-hoiby-fra-varetekt/1719693",
-          "published": "2026-11-02T16:02:40.000Z"
+          "source": "nettavisen",
+          "sourceName": "Nettavisen",
+          "title": "Terje Rød-Larsen og Mona Juul solgte Frogner-leilighet for 26 millioner",
+          "url": "https://www.nettavisen.no/nyheter/terje-rod-larsen-og-mona-juuls-frogner-leilighet-er-solgt-for-26-millioner-kroner/s/80-95-216056",
+          "published": "2026-11-03T13:44:08.000Z"
         }
       ]
     },
     {
-      "id": "s230",
-      "headline": "Christian Hoel ferdig som Rema-sjef",
+      "id": "s125",
+      "headline": "Omfattende russisk angrep mot ukrainske energianlegg – 180.000 mistet strømmen",
       "headlineSource": "aftenposten",
-      "sourceCount": 5,
-      "score": 4.32,
-      "updated": "2026-11-02T14:40:49.000Z",
+      "sourceCount": 3,
+      "score": 2.98,
+      "updated": "2026-11-03T15:05:51.000Z",
+      "tags": [
+        "utenriks",
+        "helse"
+      ],
+      "articles": [
+        {
+          "source": "aftenposten",
+          "sourceName": "Aftenposten",
+          "title": "Omfattende russisk angrep mot ukrainske energianlegg – 180.000 mistet strømmen",
+          "url": "https://www.aftenposten.no/verden/i/77Wjnv/omfattende-russisk-angrep-mot-ukrainske-energianlegg-180000-mistet-stroemmen?utm_medium=rss",
+          "published": "2026-11-03T06:38:26.000Z"
+        },
+        {
+          "source": "tv2",
+          "sourceName": "TV 2",
+          "title": "Ukraina: Omfattende angrep mot energianlegg",
+          "url": "https://www.tv2.no/a/19387978",
+          "published": "2026-11-03T06:55:50.000Z"
+        },
+        {
+          "source": "nettavisen",
+          "sourceName": "Nettavisen",
+          "title": "33 drept i russisk angrep: – Massedrap",
+          "url": "https://www.nettavisen.no/nyheter/33-drept-i-russisk-angrep-massedrap/s/80-95-215876",
+          "published": "2026-11-03T15:05:51.000Z"
+        }
+      ]
+    },
+    {
+      "id": "s266",
+      "headline": "NRK: Terrorsiktet Aisha Kausar har rømt fra syrisk leir",
+      "headlineSource": "tv2",
+      "sourceCount": 3,
+      "score": 2.96,
+      "updated": "2026-11-03T14:52:29.000Z",
       "tags": [
         "krim"
       ],
@@ -76,324 +152,239 @@
         {
           "source": "aftenposten",
           "sourceName": "Aftenposten",
-          "title": "Christian Hoel ferdig som Rema-sjef",
-          "url": "https://e24.no/i/aO6m6O?utm_medium=rss",
-          "published": "2026-11-02T14:28:59.000Z"
+          "title": "NRK: Terrorsiktet norsk kvinne har rømt fra syrisk leir",
+          "url": "https://www.aftenposten.no/norge/i/GrpLkB/nrk-terrorsiktet-norsk-kvinne-har-roemt-fra-syrisk-leir?utm_medium=rss",
+          "published": "2026-11-03T14:21:45.000Z"
         },
-        {
-          "source": "dn",
-          "sourceName": "DN",
-          "title": "Christian Hoel går av som Rema-sjef",
-          "url": "https://www.dn.no/handel/christian-hoel-gar-av-som-rema-sjef/2-1-2067743",
-          "published": "2026-11-02T14:31:20.000Z"
-        },
-        {
-          "source": "e24",
-          "sourceName": "E24",
-          "title": "Christian Hoel ferdig som Rema-sjef",
-          "url": "https://e24.no/naeringsliv/i/aO6m6O/christian-hoel-gaar-av-som-rema-sjef?utm_medium=rss",
-          "published": "2026-11-02T14:28:55.000Z",
-          "sameAs": "Aftenposten"
-        },
-        {
-          "source": "bt",
-          "sourceName": "BT",
-          "title": "Rema 1000 får ny administrerende direktør",
-          "url": "https://www.bt.no/innenriks/i/77ebVo/rema-1000-faar-ny-administrerende-direktoer?utm_medium=rss",
-          "published": "2026-11-02T14:40:49.000Z"
-        },
-        {
-          "source": "adressa",
-          "sourceName": "Adresseavisen",
-          "title": "Han blir ny Rema-topp",
-          "url": "https://www.adressa.no/okonomi/i/Aboe1q/han-blir-ny-rema-topp",
-          "published": "2026-11-02T14:35:05.000Z"
-        },
-        {
-          "source": "nationen",
-          "sourceName": "Nationen",
-          "title": "Sjefsskifte i Rema 1000: Christian Hoel går av – Petter Vold tar over",
-          "url": "https://www.nationen.no/sjefsskifte-i-rema-1000-christian-hoel-gar-av-petter-vold-tar-over/s/80-148-62870",
-          "published": "2026-11-02T14:34:41.000Z"
-        }
-      ]
-    },
-    {
-      "id": "s67",
-      "headline": "Carlson: Trump dager unna atomangrep",
-      "headlineSource": "nettavisen",
-      "sourceCount": 4,
-      "score": 3.6,
-      "updated": "2026-11-02T16:24:18.000Z",
-      "tags": [
-        "utenriks",
-        "arbeidsliv",
-        "teknologi"
-      ],
-      "articles": [
         {
           "source": "tv2",
           "sourceName": "TV 2",
-          "title": "– Donald Trump hjelper ikke oss",
-          "url": "https://www.tv2.no/a/19348900",
-          "published": "2026-11-02T05:03:19.000Z"
+          "title": "NRK: Terrorsiktet Aisha Kausar har rømt fra syrisk leir",
+          "url": "https://www.tv2.no/a/19390276",
+          "published": "2026-11-03T14:52:29.000Z"
         },
         {
           "source": "nettavisen",
           "sourceName": "Nettavisen",
-          "title": "Carlson: Trump dager unna atomangrep",
-          "url": "https://www.nettavisen.no/nyheter/tucker-carlson-hevder-trump-kan-bruke-atomvapen-mot-iran-innen-fa-dager/s/80-95-212291",
-          "published": "2026-11-02T16:24:18.000Z"
-        },
-        {
-          "source": "dagbladet",
-          "sourceName": "Dagbladet",
-          "title": "- Det der er jo Trump",
-          "url": "https://www.dagbladet.no/nyheter/dukket-opp-over-norge/85367665",
-          "published": "2026-11-02T09:17:39.000Z"
-        },
-        {
-          "source": "dagsavisen",
-          "sourceName": "Dagsavisen",
-          "title": "To ting er svært skadelige for Trump",
-          "url": "https://www.dagsavisen.no/nyheter/usa-dodelig-kombinasjon-for-en-president/10605371",
-          "published": "2026-11-02T05:00:00.000Z"
+          "title": "Norsk terrorsiktet har rømt fra leir i Syria",
+          "url": "https://www.nettavisen.no/nyheter/terrorsiktet-har-romt-fra-leir-i-syria/s/80-95-216158",
+          "published": "2026-11-03T14:07:55.000Z"
         }
       ]
     },
     {
-      "id": "s199",
-      "headline": "Knutsen ringte Jensen etter trenerkrangelen: – Det var en spesiell episode",
-      "headlineSource": "bt",
-      "sourceCount": 4,
-      "score": 3.48,
-      "updated": "2026-11-02T14:10:37.000Z",
+      "id": "s222",
+      "headline": "Forsvaret utplasserer luftovervåking i Finnmark for å oppdage droner",
+      "headlineSource": "aftenposten",
+      "sourceCount": 3,
+      "score": 2.93,
+      "updated": "2026-11-03T12:09:05.000Z",
       "tags": [
-        "sport",
-        "nordland"
+        "beredskap"
       ],
       "articles": [
         {
           "source": "nrk",
           "sourceName": "NRK",
-          "title": "Knutsen ringte Jensen etter trenerbråket",
-          "url": "https://www.nrk.no/nordland/knutsen-ringte-jensen-etter-trenerbraket-1.18071039",
-          "published": "2026-11-02T12:42:41.000Z"
+          "title": "Styrker droneovervåkingen ved den norsk-russiske grensen",
+          "url": "https://www.nrk.no/tromsogfinnmark/forsvaret-plasserer-ut-luftovervaking-i-kirkenes-som-kan-oppdage-droner-pa-avveier-1.18072276",
+          "published": "2026-11-03T12:00:29.000Z"
         },
         {
-          "source": "bt",
-          "sourceName": "BT",
-          "title": "Knutsen ringte Jensen etter trenerkrangelen: – Det var en spesiell episode",
-          "url": "https://www.bt.no/sport/i/jv4GEA/knutsen-ringte-jensen-etter-trenerkrangelen-det-var-en-spesiell-episode?utm_medium=rss",
-          "published": "2026-11-02T13:20:03.000Z"
+          "source": "aftenposten",
+          "sourceName": "Aftenposten",
+          "title": "Forsvaret utplasserer luftovervåking i Finnmark for å oppdage droner",
+          "url": "https://www.aftenposten.no/norge/i/77WMaV/forsvaret-utplasserer-luftovervaaking-i-finnmark-for-aa-oppdage-droner?utm_medium=rss",
+          "published": "2026-11-03T11:50:22.000Z"
+        },
+        {
+          "source": "dagsavisen",
+          "sourceName": "Dagsavisen",
+          "title": "Forsvaret utplasserer luftovervåking i Finnmark",
+          "url": "https://www.dagsavisen.no/nyheter/forsvaret-utplasserer-luftovervaking-i-finnmark-for-a-oppdage-droner/10614455",
+          "published": "2026-11-03T12:09:05.000Z"
+        }
+      ]
+    },
+    {
+      "id": "s245",
+      "headline": "Fire tiltalt for ulovlig pengespill, hvitvasking og narkotika i grov Økokrim-sak",
+      "headlineSource": "tv2",
+      "sourceCount": 3,
+      "score": 2.91,
+      "updated": "2026-11-03T14:23:42.000Z",
+      "tags": [
+        "krim",
+        "sport"
+      ],
+      "articles": [
+        {
+          "source": "aftenposten",
+          "sourceName": "Aftenposten",
+          "title": "Økokrim: Fire tiltalt for ulovlig pengespill, hvitvasking og narkotikalovbrudd",
+          "url": "https://www.aftenposten.no/norge/i/L32GOx/oekokrim-fire-tiltalt-for-ulovlig-pengespill-hvitvasking-og-narkotikalovbrudd?utm_medium=rss",
+          "published": "2026-11-03T13:25:12.000Z"
+        },
+        {
+          "source": "tv2",
+          "sourceName": "TV 2",
+          "title": "Fire tiltalt for ulovlig pengespill, hvitvasking og narkotika i grov Økokrim-sak",
+          "url": "https://www.tv2.no/a/19390148",
+          "published": "2026-11-03T14:23:42.000Z"
         },
         {
           "source": "dagbladet",
           "sourceName": "Dagbladet",
-          "title": "Nekter: - Kan ikke svare alle",
-          "url": "https://www.dagbladet.no/sport/ringte-jensen/85369140",
-          "published": "2026-11-02T13:15:46.000Z"
-        },
-        {
-          "source": "an",
-          "sourceName": "Avisa Nordland",
-          "title": "Knutsen ringte Viking-treneren etter bråket: – Jeg følte det var det mest riktige å gjøre",
-          "url": "https://www.an.no/knutsen-ringte-viking-treneren-etter-braket-jeg-folte-det-var-det-mest-riktige-a-gjore/s/80-4-53225",
-          "published": "2026-11-02T14:10:37.000Z"
+          "title": "Massiv sak: «Du burde gjemme deg»",
+          "url": "https://www.dagbladet.no/nyheter/du-burde-gjemme-deg-til-jeg-er-tilbake/85368501",
+          "published": "2026-11-03T13:02:31.000Z"
         }
       ]
     },
     {
-      "id": "s144",
-      "headline": "Legger frem forslag til stor helsereform: – En evig runddans før man får hjelp",
-      "headlineSource": "bt",
-      "sourceCount": 4,
-      "score": 3.07,
-      "updated": "2026-11-02T10:30:42.000Z",
-      "tags": [
-        "helse",
-        "politikk"
-      ],
-      "articles": [
-        {
-          "source": "aftenposten",
-          "sourceName": "Aftenposten",
-          "title": "Foreslår stor helsereform: – Jeg er utålmodig",
-          "url": "https://www.aftenposten.no/norge/i/n9d7bB/foreslaar-stor-helsereform-utvalget-mener-kommunesammenslaainger-maa-til-for-aa-loese-fremtidens-helseutfordringer?utm_medium=rss",
-          "published": "2026-11-02T09:58:22.000Z"
-        },
-        {
-          "source": "tv2",
-          "sourceName": "TV 2",
-          "title": "Helsereformen: Vil fjerne de fire regionale helseforetakene",
-          "url": "https://www.tv2.no/a/19384009",
-          "published": "2026-11-02T10:30:42.000Z"
-        },
-        {
-          "source": "bt",
-          "sourceName": "BT",
-          "title": "Legger frem forslag til stor helsereform: – En evig runddans før man får hjelp",
-          "url": "https://www.bt.no/innenriks/i/X9r1zg/legger-frem-forslag-til-stor-helsereform-en-evig-runddans-foer-man-faar-hjelp?utm_medium=rss",
-          "published": "2026-11-02T10:08:48.000Z"
-        },
-        {
-          "source": "an",
-          "sourceName": "Avisa Nordland",
-          "title": "Se live: Helsereformutvalget leverer sin anbefaling",
-          "url": "https://www.an.no/se-live-helsereformutvalget-leverer-sin-anbefaling/v/80-4-53099",
-          "published": "2026-11-02T10:10:53.000Z"
-        }
-      ]
-    },
-    {
-      "id": "s96",
-      "headline": "HPV-kreft øker kraftig – åtte av ti menn vet ikke at viruset kan gi dem kreft",
-      "headlineSource": "tv2",
+      "id": "s102",
+      "headline": "Kuttet dessert på julaften – nå blir det riskrem og kaker likevel",
+      "headlineSource": "aftenposten",
       "sourceCount": 3,
-      "score": 2.5,
-      "updated": "2026-11-02T11:34:08.000Z",
+      "score": 2.87,
+      "updated": "2026-11-03T13:57:42.000Z",
       "tags": [
-        "helse"
+        "krim"
       ],
       "articles": [
         {
           "source": "aftenposten",
           "sourceName": "Aftenposten",
-          "title": "Ole (54) fikk kreft av HPV: – Et smertehelvete",
-          "url": "https://www.aftenposten.no/norge/i/Qg1B2q/ole-54-fikk-kreft-av-hpv-et-smertehelvete?utm_medium=rss",
-          "published": "2026-11-02T07:47:19.000Z"
+          "title": "Kuttet dessert på julaften – nå blir det riskrem og kaker likevel",
+          "url": "https://www.aftenposten.no/norge/i/31vPa9/kuttet-dessert-paa-julaften-naa-blir-det-riskrem-og-kaker-likevel?utm_medium=rss",
+          "published": "2026-11-03T11:10:30.000Z"
         },
         {
           "source": "tv2",
           "sourceName": "TV 2",
-          "title": "HPV-kreft øker kraftig – åtte av ti menn vet ikke at viruset kan gi dem kreft",
-          "url": "https://www.tv2.no/a/19384267",
-          "published": "2026-11-02T08:57:37.000Z"
+          "title": "Dessertkutt for eldre - står i kø for å spandere",
+          "url": "https://www.tv2.no/a/19388075",
+          "published": "2026-11-03T08:15:29.000Z"
         },
         {
-          "source": "adressa",
-          "sourceName": "Adresseavisen",
-          "title": "– Som å svelge piggtråd og helle brennevin i åpne sår",
-          "url": "https://www.adressa.no/nyheter/i/1oE0pX/ole-54-fikk-kreft-av-hpv-et-smertehelvete",
-          "published": "2026-11-02T11:34:08.000Z"
+          "source": "nettavisen",
+          "sourceName": "Nettavisen",
+          "title": "Kommunen kuttet juledessert: – Det er for dumt",
+          "url": "https://www.nettavisen.no/nyheter/kommunen-kuttet-juledessert-det-er-for-dumt/s/80-95-215075",
+          "published": "2026-11-03T13:57:42.000Z"
         },
         {
-          "source": "bt",
-          "sourceName": "BT",
-          "title": "Ole (54) fikk kreft av HPV: – Et smertehelvete",
-          "url": "https://www.bt.no/innenriks/i/zlnw69/ole-54-fikk-kreft-av-hpv-et-smertehelvete?utm_medium=rss",
-          "published": "2026-11-02T07:09:13.000Z",
+          "source": "dagsavisen",
+          "sourceName": "Dagsavisen",
+          "title": "Kuttet dessert på julaften – nå blir det riskrem og kaker likevel",
+          "url": "https://www.dagsavisen.no/nyheter/kuttet-dessert-pa-julaften-na-blir-det-riskrem-og-kaker-likevel/10613328",
+          "published": "2026-11-03T07:35:09.000Z",
           "sameAs": "Aftenposten"
         }
       ]
     },
     {
-      "id": "s214",
-      "headline": "J. D. Vance taler dagen før mellomvalget i USA",
-      "headlineSource": "vg",
-      "sourceCount": 2,
-      "score": 2.04,
-      "updated": "2026-11-02T16:22:49.000Z",
+      "id": "s88",
+      "headline": "Medier: USA med nye angrep mot Iran",
+      "headlineSource": "e24",
+      "sourceCount": 3,
+      "score": 2.67,
+      "updated": "2026-11-03T08:05:08.000Z",
       "tags": [
         "utenriks",
         "samferdsel"
       ],
       "articles": [
         {
+          "source": "nrk",
+          "sourceName": "NRK",
+          "title": "Amerikanske medier: Nytt angrep mot Iran",
+          "url": "https://www.nrk.no/nyheter/amerikanske-medier_-nytt-angrep-mot-iran-1.18071791",
+          "published": "2026-11-03T01:56:35.000Z"
+        },
+        {
           "source": "aftenposten",
           "sourceName": "Aftenposten",
-          "title": "54,5 millioner amerikanere har forhåndsstemt",
-          "url": "https://www.aftenposten.no/verden/i/lKqrE7/siste-nytt-om-mellomvalget-i-usa?pinnedEntry=124934&utm_medium=rss",
-          "published": "2026-11-02T14:16:47.000Z"
+          "title": "Avis: USA har angrepet iransk øy",
+          "url": "https://www.aftenposten.no/verden/i/AbepJq/avis-usa-har-angrepet-iransk-oey?utm_medium=rss",
+          "published": "2026-11-03T04:44:22.000Z"
         },
-        {
-          "source": "vg",
-          "sourceName": "VG",
-          "title": "J. D. Vance taler dagen før mellomvalget i USA",
-          "url": "https://www.vg.no/nyheter/i/d7Xoej/j-d-vance-taler-dagen-foer-mellomvalget-i-usa",
-          "published": "2026-11-02T16:22:49.000Z"
-        }
-      ]
-    },
-    {
-      "id": "s259",
-      "headline": "Ny Høyre-smell: Utklasses av Listhaug",
-      "headlineSource": "nettavisen",
-      "sourceCount": 2,
-      "score": 1.88,
-      "updated": "2026-11-02T16:53:21.000Z",
-      "tags": [
-        "politikk",
-        "arbeidsliv"
-      ],
-      "articles": [
-        {
-          "source": "tv2",
-          "sourceName": "TV 2",
-          "title": "Ny krisemåling for Høyre: – Stor jobb å snu",
-          "url": "https://www.tv2.no/a/19371215",
-          "published": "2026-11-02T16:02:04.000Z"
-        },
-        {
-          "source": "nettavisen",
-          "sourceName": "Nettavisen",
-          "title": "Ny Høyre-smell: Utklasses av Listhaug",
-          "url": "https://www.nettavisen.no/nyheter/ny-hoyre-smell-utklasses-av-listhaug/s/80-95-213440",
-          "published": "2026-11-02T16:53:21.000Z"
-        }
-      ]
-    },
-    {
-      "id": "s261",
-      "headline": "El-Sayed satte innsamlingsrekord etter Stevens avhopp",
-      "headlineSource": "vg",
-      "sourceCount": 2,
-      "score": 1.84,
-      "updated": "2026-11-02T16:16:24.000Z",
-      "tags": [],
-      "articles": [
-        {
-          "source": "vg",
-          "sourceName": "VG",
-          "title": "El-Sayed satte innsamlingsrekord etter Stevens avhopp",
-          "url": "https://www.vg.no/nyheter/i/n9d5Om/innsamlingsrekord-for-el-sayed-etter-sjokk-avhopp-fra-partifelle",
-          "published": "2026-11-02T16:07:17.000Z"
-        },
-        {
-          "source": "nettavisen",
-          "sourceName": "Nettavisen",
-          "title": "Innsamlingsrekord for El-Sayed etter sjokk-avhopp fra partifelle",
-          "url": "https://www.nettavisen.no/nyheter/innsamlingsrekord-for-el-sayed-etter-sjokk-avhopp-fra-partifelle/s/80-95-213350",
-          "published": "2026-11-02T16:16:24.000Z"
-        }
-      ]
-    },
-    {
-      "id": "s32",
-      "headline": "Tek-comeback på Wall Street",
-      "headlineSource": "e24",
-      "sourceCount": 2,
-      "score": 1.83,
-      "updated": "2026-11-02T14:32:09.000Z",
-      "tags": [
-        "okonomi",
-        "teknologi",
-        "utenriks"
-      ],
-      "articles": [
         {
           "source": "e24",
           "sourceName": "E24",
-          "title": "Tek-comeback på Wall Street",
-          "url": "https://e24.no/boers-og-finans/i/mKkkqL/tek-comeback-paa-wall-street?utm_medium=rss",
-          "published": "2026-11-02T14:32:09.000Z"
+          "title": "Medier: USA med nye angrep mot Iran",
+          "url": "https://e24.no/boers-og-finans/i/d7yG9O/medier-usa-med-nye-angrep-mot-iran?utm_medium=rss",
+          "published": "2026-11-03T08:05:08.000Z"
+        }
+      ]
+    },
+    {
+      "id": "s172",
+      "headline": "Bombetrusler mot flere fly – SAS-fly til Polen rammet",
+      "headlineSource": "tv2",
+      "sourceCount": 3,
+      "score": 2.61,
+      "updated": "2026-11-03T11:02:59.000Z",
+      "tags": [
+        "samferdsel"
+      ],
+      "articles": [
+        {
+          "source": "aftenposten",
+          "sourceName": "Aftenposten",
+          "title": "Flere europeiske fly rammet av bombetrusler – SAS-fly til Polen rammet",
+          "url": "https://www.aftenposten.no/verden/i/4OM0n9/flere-europeiske-fly-rammet-av-bombetrusler-sas-fly-til-polen-rammet?utm_medium=rss",
+          "published": "2026-11-03T09:28:05.000Z"
         },
         {
-          "source": "dn",
-          "sourceName": "DN",
-          "title": "USA-børsene slår tilbake",
-          "url": "https://www.dn.no/bors/usa-borsene-slar-tilbake/2-1-2067726",
-          "published": "2026-11-02T14:30:39.000Z"
+          "source": "tv2",
+          "sourceName": "TV 2",
+          "title": "Bombetrusler mot flere fly – SAS-fly til Polen rammet",
+          "url": "https://www.tv2.no/a/19388962",
+          "published": "2026-11-03T10:58:11.000Z"
+        },
+        {
+          "source": "dagbladet",
+          "sourceName": "Dagbladet",
+          "title": "Bombetrusler mot flere fly",
+          "url": "https://www.dagbladet.no/nyheter/sas-fly-evakuert-ventet-om-bord-i-to-timer/85373459",
+          "published": "2026-11-03T11:02:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "s207",
+      "headline": "Stanset arbeidet etter funn – har sperret av område",
+      "headlineSource": "an",
+      "sourceCount": 3,
+      "score": 2.47,
+      "updated": "2026-11-03T11:30:05.000Z",
+      "tags": [
+        "nordland",
+        "beredskap",
+        "samferdsel"
+      ],
+      "articles": [
+        {
+          "source": "aftenposten",
+          "sourceName": "Aftenposten",
+          "title": "Bodø Nu: Funn av håndgranat i Bodø",
+          "url": "https://www.aftenposten.no/norge/i/Vg0r8d/bodoe-nu-funn-av-haandgranat-i-bodoe?utm_medium=rss",
+          "published": "2026-11-03T11:17:42.000Z"
+        },
+        {
+          "source": "nrk-nordland",
+          "sourceName": "NRK Nordland",
+          "title": "Fant håndgranat på avfallsanlegg",
+          "url": "https://www.nrk.no/nordland/fant-handgranat-pa-avfallsanlegg-1.18072234",
+          "published": "2026-11-03T11:30:05.000Z"
+        },
+        {
+          "source": "an",
+          "sourceName": "Avisa Nordland",
+          "title": "Stanset arbeidet etter funn – har sperret av område",
+          "url": "https://www.an.no/skal-ha-funnet-handgranat-i-bodo-har-sperret-av-omrade/s/80-4-54050",
+          "published": "2026-11-03T11:12:10.000Z"
         }
       ]
     }
@@ -401,182 +392,114 @@
   "sections": {
     "politikk": [
       {
-        "id": "s119",
-        "headline": "Ingen hastebehandling i Stortinget av datasenterforslag",
-        "headlineSource": "aftenposten",
-        "sourceCount": 2,
-        "score": 1.73,
-        "updated": "2026-11-02T12:51:51.000Z",
-        "tags": [
-          "politikk",
-          "teknologi"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Ingen hastebehandling i Stortinget av datasenterforslag",
-            "url": "https://www.aftenposten.no/norge/politikk/i/8Ggyqr/ingen-hastebehandling-i-stortinget-av-datasenterforslag?utm_medium=rss",
-            "published": "2026-11-02T12:31:42.000Z"
-          },
-          {
-            "source": "dagsavisen",
-            "sourceName": "Dagsavisen",
-            "title": "Frp ber regjeringen om raskere datasenterregulering",
-            "url": "https://www.dagsavisen.no/nyheter/frp-ber-regjeringen-om-raskere-datasenterregulering/10611753",
-            "published": "2026-11-02T09:35:18.000Z"
-          },
-          {
-            "source": "adressa",
-            "sourceName": "Adresseavisen",
-            "title": "Ingen hastebehandling i Stortinget av datasenterforslag",
-            "url": "https://www.adressa.no/nyheter/innenriks/i/64b78Q/frp-ber-regjeringen-om-hurtig-behandling-av-datasentre",
-            "published": "2026-11-02T08:41:41.000Z",
-            "sameAs": "Aftenposten"
-          },
-          {
-            "source": "nationen",
-            "sourceName": "Nationen",
-            "title": "Ingen hastebehandling i Stortinget av datasenterforslag",
-            "url": "https://www.nationen.no/ingen-hastebehandling-i-stortinget-av-datasenterforslag/s/80-148-62657",
-            "published": "2026-11-02T12:51:51.000Z",
-            "sameAs": "Aftenposten"
-          }
-        ]
-      },
-      {
-        "id": "s140",
-        "headline": "– Vi har et stort arbeid foran oss",
-        "headlineSource": "dagsavisen",
-        "sourceCount": 2,
-        "score": 1.69,
-        "updated": "2026-11-02T15:15:00.000Z",
-        "tags": [
-          "helse",
-          "politikk",
-          "krim"
-        ],
-        "articles": [
-          {
-            "source": "dagsavisen",
-            "sourceName": "Dagsavisen",
-            "title": "– Vi har et stort arbeid foran oss",
-            "url": "https://www.dagsavisen.no/nyheter/vi-har-et-stort-stykke-arbeid-foran-oss/10611634",
-            "published": "2026-11-02T15:15:00.000Z"
-          },
-          {
-            "source": "dagbladet",
-            "sourceName": "Dagbladet",
-            "title": "Vil legge ned helseforetak",
-            "url": "https://www.dagbladet.no/nyheter/vi-ma-roske-opp/85367869",
-            "published": "2026-11-02T09:47:52.000Z"
-          },
-          {
-            "source": "nettavisen",
-            "sourceName": "Nettavisen",
-            "title": "Nå blir de utskjelte helseforetakene vraket",
-            "url": "https://www.nettavisen.no/norsk-debatt/helsemakten-sentraliseres-til-oslo/o/80-95-213299",
-            "published": "2026-11-02T16:21:11.000Z",
-            "opinion": true
-          }
-        ]
-      },
-      {
-        "id": "s131",
-        "headline": "MDG etterlyser tiltak etter svensk fryserkrise: – Vi kan ikke være naive",
-        "headlineSource": "aftenposten",
-        "sourceCount": 2,
-        "score": 1.67,
-        "updated": "2026-11-02T13:20:26.000Z",
-        "tags": [
-          "politikk",
-          "teknologi",
-          "beredskap"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "MDG etterlyser tiltak etter svensk fryserkrise: – Vi kan ikke være naive",
-            "url": "https://www.aftenposten.no/norge/politikk/i/jv4GLb/mdg-etterlyser-tiltak-etter-svensk-fryserkrise-vi-kan-ikke-vaere-naive?utm_medium=rss",
-            "published": "2026-11-02T13:20:26.000Z"
-          },
-          {
-            "source": "nationen",
-            "sourceName": "Nationen",
-            "title": "Fryserangrep sprer seg i Europa – MDG frykter sabotasje og krever svar fra regjeringen",
-            "url": "https://www.nationen.no/svenske-matvarebutikker-fikk-trobbel-med-kjoleanleggene-frykter-hacking/s/80-148-62372",
-            "published": "2026-11-02T09:33:48.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s264",
-        "headline": "Traumekirurg: – Norske sykehus er ikke forberedt på krig",
+        "id": "s253",
+        "headline": "Trump sier han vil avslutte USAs støtte til Israel i slutten av året",
         "headlineSource": "nrk",
-        "sourceCount": 1,
-        "score": 1.22,
-        "updated": "2026-11-02T16:24:49.000Z",
+        "sourceCount": 2,
+        "score": 2.22,
+        "updated": "2026-11-03T13:38:15.000Z",
         "tags": [
-          "helse",
+          "utenriks",
           "politikk"
         ],
         "articles": [
           {
             "source": "nrk",
             "sourceName": "NRK",
-            "title": "Traumekirurg: – Norske sykehus er ikke forberedt på krig",
-            "url": "https://www.nrk.no/tromsogfinnmark/kirurg-og-overlege-mener-norge-har-svaert-darlig-krigsberedskap-innen-helse-1.18067388",
-            "published": "2026-11-02T16:24:49.000Z"
+            "title": "Trump sier han vil avslutte USAs støtte til Israel i slutten av året",
+            "url": "https://www.nrk.no/nyheter/trump-sier-han-vil-avslutte-usas-stotte-til-israel-i-slutten-av-aret-1.18072465",
+            "published": "2026-11-03T13:38:15.000Z"
+          },
+          {
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "Trump: USA skal slutte å gi penger til Israel",
+            "url": "https://www.aftenposten.no/verden/i/vlajQ4/trump-usa-skal-slutte-aa-gi-penger-til-israel?utm_medium=rss",
+            "published": "2026-11-03T13:29:32.000Z"
           }
         ]
       },
       {
-        "id": "s249",
-        "headline": "Rødt-forslag om datasenterstans: Får trolig ikke flertall",
-        "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 1.05,
-        "updated": "2026-11-02T15:43:44.000Z",
+        "id": "s243",
+        "headline": "David (16) veltet på ATV – mener hjelmen reddet han",
+        "headlineSource": "nrk",
+        "sourceCount": 2,
+        "score": 2.13,
+        "updated": "2026-11-03T15:04:24.000Z",
         "tags": [
+          "politikk"
+        ],
+        "articles": [
+          {
+            "source": "nrk",
+            "sourceName": "NRK",
+            "title": "David (16) veltet på ATV – mener hjelmen reddet han",
+            "url": "https://www.nrk.no/sorlandet/hjelm-pa-atv_-blir-pabudt-fra-1.-januar-2027-1.18071226",
+            "published": "2026-11-03T12:59:09.000Z"
+          },
+          {
+            "source": "bt",
+            "sourceName": "BT",
+            "title": "Påbudt med hjelm for alle på ATV",
+            "url": "https://www.bt.no/innenriks/i/qyj4mo/paabudt-med-hjelm-for-alle-paa-atv?utm_medium=rss",
+            "published": "2026-11-03T15:04:24.000Z"
+          },
+          {
+            "source": "adressa",
+            "sourceName": "Adresseavisen",
+            "title": "Påbudt med hjelm for alle på ATV",
+            "url": "https://www.adressa.no/nyheter/innenriks/i/581g8z/paabudt-med-hjelm-for-alle-paa-atv",
+            "published": "2026-11-03T14:02:29.000Z",
+            "sameAs": "BT"
+          },
+          {
+            "source": "nationen",
+            "sourceName": "Nationen",
+            "title": "Påbudt med hjelm for alle på ATV",
+            "url": "https://www.nationen.no/pabudt-med-hjelm-for-alle-pa-atv/s/80-148-63617",
+            "published": "2026-11-03T14:19:55.000Z",
+            "sameAs": "BT"
+          }
+        ]
+      },
+      {
+        "id": "s209",
+        "headline": "Sist kom han som Nato-sjef. Nå møter Stoltenberg et Ukraina i pengekrise.",
+        "headlineSource": "aftenposten",
+        "sourceCount": 2,
+        "score": 1.84,
+        "updated": "2026-11-03T11:20:03.000Z",
+        "tags": [
+          "utenriks",
           "politikk",
-          "teknologi"
+          "okonomi"
         ],
         "articles": [
           {
             "source": "aftenposten",
             "sourceName": "Aftenposten",
-            "title": "Rødt-forslag om datasenterstans: Får trolig ikke flertall",
-            "url": "https://e24.no/i/Jrzzn8?utm_medium=rss",
-            "published": "2026-11-02T15:43:44.000Z"
+            "title": "Sist kom han som Nato-sjef. Nå møter Stoltenberg et Ukraina i pengekrise.",
+            "url": "https://www.aftenposten.no/verden/i/312lJM/finansminister-jens-stoltenberg-er-i-kyiv-mens-ukraina-gaar-inn-i-en-av-de-toeffeste-vintrene-siden-fullskala-invasjonen?utm_medium=rss",
+            "published": "2026-11-03T11:20:03.000Z"
           },
           {
-            "source": "vg",
-            "sourceName": "VG",
-            "title": "Rødt-forslag om datasenterstans: Får trolig ikke flertall",
-            "url": "https://www.vg.no/i/vlMvQm/roedt-forslag-om-datasenterstans-faar-trolig-ikke-flertall",
-            "published": "2026-11-02T15:43:41.000Z",
-            "sameAs": "Aftenposten"
-          },
-          {
-            "source": "e24",
-            "sourceName": "E24",
-            "title": "Rødt-forslag om datasenterstans: Får trolig ikke flertall",
-            "url": "https://e24.no/energi-og-klima/i/Jrzzn8/roedt-forslag-om-datasenterstans-faar-trolig-ikke-flertall?utm_medium=rss",
-            "published": "2026-11-02T15:43:39.000Z",
-            "sameAs": "Aftenposten"
+            "source": "tv2",
+            "sourceName": "TV 2",
+            "title": "Stoltenberg på besøk i Ukraina – varsler ny fondsordning",
+            "url": "https://www.tv2.no/a/19386635",
+            "published": "2026-11-03T11:19:55.000Z"
           }
         ]
       },
       {
-        "id": "s166",
-        "headline": "Sp: Skuffet over at utvalget ikke går lenger",
+        "id": "s126",
+        "headline": "Fagforbundet varsler politisk streik for Posten",
         "headlineSource": "nrk",
-        "sourceCount": 1,
-        "score": 1.02,
-        "updated": "2026-11-02T10:59:10.000Z",
+        "sourceCount": 2,
+        "score": 1.58,
+        "updated": "2026-11-03T07:00:52.000Z",
         "tags": [
-          "helse",
+          "arbeidsliv",
           "politikk",
           "krim"
         ],
@@ -584,119 +507,105 @@
           {
             "source": "nrk",
             "sourceName": "NRK",
-            "title": "Sp: Skuffet over at utvalget ikke går lenger",
-            "url": "https://www.nrk.no/nyheter/sp_-skuffet-over-at-utvalget-ikke-gar-lenger-1.18071170",
-            "published": "2026-11-02T10:59:10.000Z"
+            "title": "Fagforbundet varsler politisk streik for Posten",
+            "url": "https://www.nrk.no/nyheter/fagforbundet-varsler-politisk-streik-for-posten-1.18071828",
+            "published": "2026-11-03T06:39:43.000Z"
+          },
+          {
+            "source": "frifagbevegelse",
+            "sourceName": "FriFagbevegelse",
+            "title": "Varsler streik for Posten",
+            "url": "https://www.frifagbevegelse.no/nyheter/fagforbundet-varsler-politisk-streik-for-posten/2729984",
+            "published": "2026-11-03T07:00:52.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s283",
+        "headline": "Vedums ultimatum kan ende med regjeringskrise: – Har som mål å vinne denne kampen",
+        "headlineSource": "aftenposten",
+        "sourceCount": 1,
+        "score": 1.08,
+        "updated": "2026-11-03T14:47:16.000Z",
+        "tags": [
+          "politikk",
+          "sport"
+        ],
+        "articles": [
+          {
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "Vedums ultimatum kan ende med regjeringskrise: – Har som mål å vinne denne kampen",
+            "url": "https://www.aftenposten.no/norge/politikk/i/581eKb/trygve-slagsvold-vedum-det-blir-kamp-i-hoest?utm_medium=rss",
+            "published": "2026-11-03T14:47:16.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s271",
+        "headline": "To grunnlovsforslag vedtatt i Stortinget",
+        "headlineSource": "aftenposten",
+        "sourceCount": 1,
+        "score": 1.07,
+        "updated": "2026-11-03T14:26:55.000Z",
+        "tags": [
+          "politikk"
+        ],
+        "articles": [
+          {
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "To grunnlovsforslag vedtatt i Stortinget",
+            "url": "https://www.aftenposten.no/norge/politikk/i/8GnMmw/to-grunnlovsforslag-vedtatt-i-stortinget?utm_medium=rss",
+            "published": "2026-11-03T14:26:55.000Z"
           }
         ]
       }
     ],
     "okonomi": [
       {
-        "id": "s151",
-        "headline": "Obos-prisene i Oslo falt 1,7 prosent i oktober",
-        "headlineSource": "aftenposten",
-        "sourceCount": 2,
-        "score": 1.81,
-        "updated": "2026-11-02T12:35:27.000Z",
+        "id": "s162",
+        "headline": "250 millioner til Telemark - skal svekke Kina",
+        "headlineSource": "dagbladet",
+        "sourceCount": 3,
+        "score": 2.34,
+        "updated": "2026-11-03T10:55:48.000Z",
         "tags": [
-          "okonomi"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Obos-prisene i Oslo falt 1,7 prosent i oktober",
-            "url": "https://e24.no/i/Jravy4?utm_medium=rss",
-            "published": "2026-11-02T12:35:27.000Z"
-          },
-          {
-            "source": "e24",
-            "sourceName": "E24",
-            "title": "Obos-prisene i Oslo falt 1,7 prosent i oktober",
-            "url": "https://e24.no/norsk-oekonomi/i/Jravy4/obos-prisene-i-oslo-falt-1-7-prosent-i-oktober?utm_medium=rss",
-            "published": "2026-11-02T10:08:23.000Z",
-            "sameAs": "Aftenposten"
-          },
-          {
-            "source": "dn",
-            "sourceName": "DN",
-            "title": "Obos-prisene falt mer enn vanlig",
-            "url": "https://www.dn.no/eiendom/obos/eiendom/oslo/obos-prisene-falt-mer-enn-vanlig/2-1-2067494",
-            "published": "2026-11-02T10:04:27.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s1",
-        "headline": "Første resultater i valgnatten: Florida, Florida, Florida",
-        "headlineSource": "dn",
-        "sourceCount": 2,
-        "score": 1.11,
-        "updated": "2026-11-01T20:33:28.000Z",
-        "tags": [
+          "utenriks",
+          "sport",
           "okonomi"
         ],
         "articles": [
           {
             "source": "dn",
             "sourceName": "DN",
-            "title": "Første resultater i valgnatten: Florida, Florida, Florida",
-            "url": "https://www.dn.no/utenriks/mellomvalget-i-usa/james-talarico/ken-paxton/forste-resultater-i-valgnatten-florida-florida-florida/2-1-2067233",
-            "published": "2026-11-01T17:23:21.000Z"
+            "title": "Jakter på sjeldne jordarter: Investerer 250 mill.",
+            "url": "https://www.dn.no/industri/jakter-pa-sjeldne-jordarter-investerer-250-mill/2-1-2068109",
+            "published": "2026-11-03T10:55:48.000Z"
           },
           {
             "source": "dagbladet",
             "sourceName": "Dagbladet",
-            "title": "«Vi kommer til å krasje»",
-            "url": "https://www.dagbladet.no/nyheter/fly-har-styrtet-flere-dode/85366785",
-            "published": "2026-11-01T20:33:28.000Z"
+            "title": "250 millioner til Telemark - skal svekke Kina",
+            "url": "https://borsen.dagbladet.no/nyheter/250-millioner-til-telemark-skal-svekke-kina/85372471",
+            "published": "2026-11-03T09:00:10.000Z"
+          },
+          {
+            "source": "frifagbevegelse",
+            "sourceName": "FriFagbevegelse",
+            "title": "Norge tar opp kampen med Kina",
+            "url": "https://www.frifagbevegelse.no/nyheter/na-starter-eventyret-pa-fensfeltet/2730070",
+            "published": "2026-11-03T10:04:35.000Z"
           }
         ]
       },
       {
-        "id": "s268",
-        "headline": "Jens Ulltveit-Moe: – Sissener overdriver grovt",
+        "id": "s165",
+        "headline": "Slik følger du USA-valget som en proff",
         "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 1.08,
-        "updated": "2026-11-02T16:42:52.000Z",
-        "tags": [
-          "okonomi"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Jens Ulltveit-Moe: – Sissener overdriver grovt",
-            "url": "https://e24.no/i/Ogv7Bb?utm_medium=rss",
-            "published": "2026-11-02T16:42:52.000Z"
-          },
-          {
-            "source": "vg",
-            "sourceName": "VG",
-            "title": "Jens Ulltveit-Moe: – Sissener overdriver grovt",
-            "url": "https://www.vg.no/i/PgM630/jens-ulltveit-moe-sissener-overdriver-grovt",
-            "published": "2026-11-02T16:42:49.000Z",
-            "sameAs": "Aftenposten"
-          },
-          {
-            "source": "e24",
-            "sourceName": "E24",
-            "title": "Jens Ulltveit-Moe: – Sissener overdriver grovt",
-            "url": "https://e24.no/norsk-oekonomi/i/Ogv7Bb/jens-ulltveit-moe-sissener-overdriver-grovt?utm_medium=rss",
-            "published": "2026-11-02T16:42:47.000Z",
-            "sameAs": "Aftenposten"
-          }
-        ]
-      },
-      {
-        "id": "s107",
-        "headline": "Oljeprisen faller brått etter Iran-rykter",
-        "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 0.98,
-        "updated": "2026-11-02T13:51:10.000Z",
+        "sourceCount": 2,
+        "score": 1.98,
+        "updated": "2026-11-03T13:31:21.000Z",
         "tags": [
           "utenriks",
           "okonomi"
@@ -705,70 +614,240 @@
           {
             "source": "aftenposten",
             "sourceName": "Aftenposten",
-            "title": "Oljeprisen faller brått etter Iran-rykter",
-            "url": "https://e24.no/i/gdooRL?utm_medium=rss",
-            "published": "2026-11-02T13:51:10.000Z"
+            "title": "Slik følger du USA-valget som en proff",
+            "url": "https://www.aftenposten.no/verden/i/jv4W6w/slik-foelger-du-mellomvalget-i-usa?utm_medium=rss",
+            "published": "2026-11-03T13:31:21.000Z"
           },
           {
             "source": "e24",
             "sourceName": "E24",
-            "title": "Oljeprisen faller brått etter Iran-rykter",
-            "url": "https://e24.no/boers-og-finans/i/gdooRL/oljeprisen-faller-braatt-etter-iran-rykter?utm_medium=rss",
-            "published": "2026-11-02T13:48:48.000Z",
-            "sameAs": "Aftenposten"
+            "title": "Hvordan vil valget i USA påvirke aksjemarkedet?",
+            "url": "https://e24.no/boers-og-finans/i/GrVwRV/hvordan-vil-valget-i-usa-paavirke-aksjemarkedet?utm_medium=rss",
+            "published": "2026-11-03T09:15:10.000Z"
           }
         ]
       },
       {
-        "id": "s195",
-        "headline": "Binance-kunder har tatt ut 3,64 milliarder dollar",
-        "headlineSource": "e24",
-        "sourceCount": 1,
-        "score": 0.86,
-        "updated": "2026-11-02T12:30:23.000Z",
+        "id": "s261",
+        "headline": "Olje- og gassprisene faller etter nye meldinger om fredshåp",
+        "headlineSource": "dn",
+        "sourceCount": 2,
+        "score": 1.91,
+        "updated": "2026-11-03T13:56:55.000Z",
+        "tags": [
+          "okonomi",
+          "utenriks"
+        ],
+        "articles": [
+          {
+            "source": "dn",
+            "sourceName": "DN",
+            "title": "Olje- og gassprisene faller etter nye meldinger om fredshåp",
+            "url": "https://www.dn.no/bors/olje/gasspriser/iran/olje-og-gassprisene-faller-etter-nye-meldinger-om-fredshap/2-1-2068486",
+            "published": "2026-11-03T13:56:55.000Z"
+          },
+          {
+            "source": "e24",
+            "sourceName": "E24",
+            "title": "Olje- og gassprisen faller brått",
+            "url": "https://e24.no/boers-og-finans/i/Og47Ok/olje-og-gassprisen-faller-braatt-drar-med-seg-oslo-boers-nedover?utm_medium=rss",
+            "published": "2026-11-03T13:56:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s209",
+        "headline": "Sist kom han som Nato-sjef. Nå møter Stoltenberg et Ukraina i pengekrise.",
+        "headlineSource": "aftenposten",
+        "sourceCount": 2,
+        "score": 1.84,
+        "updated": "2026-11-03T11:20:03.000Z",
+        "tags": [
+          "utenriks",
+          "politikk",
+          "okonomi"
+        ],
+        "articles": [
+          {
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "Sist kom han som Nato-sjef. Nå møter Stoltenberg et Ukraina i pengekrise.",
+            "url": "https://www.aftenposten.no/verden/i/312lJM/finansminister-jens-stoltenberg-er-i-kyiv-mens-ukraina-gaar-inn-i-en-av-de-toeffeste-vintrene-siden-fullskala-invasjonen?utm_medium=rss",
+            "published": "2026-11-03T11:20:03.000Z"
+          },
+          {
+            "source": "tv2",
+            "sourceName": "TV 2",
+            "title": "Stoltenberg på besøk i Ukraina – varsler ny fondsordning",
+            "url": "https://www.tv2.no/a/19386635",
+            "published": "2026-11-03T11:19:55.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s208",
+        "headline": "Northug-festival konkurs",
+        "headlineSource": "adressa",
+        "sourceCount": 2,
+        "score": 1.59,
+        "updated": "2026-11-03T11:34:44.000Z",
+        "tags": [
+          "okonomi",
+          "kultur",
+          "sport"
+        ],
+        "articles": [
+          {
+            "source": "adressa",
+            "sourceName": "Adresseavisen",
+            "title": "Northug-festival konkurs",
+            "url": "https://www.adressa.no/mn24/i/Kro2PE/petter-northugs-janteloppet-er-konkurs",
+            "published": "2026-11-03T11:34:44.000Z"
+          },
+          {
+            "source": "dagbladet",
+            "sourceName": "Dagbladet",
+            "title": "Konkurs",
+            "url": "https://www.dagbladet.no/sport/janteloppet-konkurs/85373510",
+            "published": "2026-11-03T11:19:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s86",
+        "headline": "Kvinne kjøpte IPTV-abonnement – må betale 95.000",
+        "headlineSource": "aftenposten",
+        "sourceCount": 2,
+        "score": 1.56,
+        "updated": "2026-11-03T07:26:45.000Z",
         "tags": [
           "okonomi",
           "krim"
         ],
         "articles": [
           {
-            "source": "e24",
-            "sourceName": "E24",
-            "title": "Binance-kunder har tatt ut 3,64 milliarder dollar",
-            "url": "https://e24.no/boers-og-finans/i/Jrzm57/binance-kunder-har-tatt-ut-3-64-milliarder-dollar?utm_medium=rss",
-            "published": "2026-11-02T12:30:23.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s255",
-        "headline": "Betalte 12.000 kroner – håret ble en katastrofe",
-        "headlineSource": "nettavisen",
-        "sourceCount": 1,
-        "score": 0.86,
-        "updated": "2026-11-02T15:56:28.000Z",
-        "tags": [
-          "okonomi"
-        ],
-        "articles": [
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "Kvinne kjøpte IPTV-abonnement – må betale 95.000",
+            "url": "https://www.aftenposten.no/norge/i/31v4vL/kvinne-kjoepte-iptv-abonnement-maa-betale-95000?utm_medium=rss",
+            "published": "2026-11-02T23:21:36.000Z"
+          },
           {
-            "source": "nettavisen",
-            "sourceName": "Nettavisen",
-            "title": "Betalte 12.000 kroner – håret ble en katastrofe",
-            "url": "https://www.nettavisen.no/kjendis/bianca-ingrosso-fortviler-etter-frisorbesok-til-12-000-kroner/s/80-95-213254",
-            "published": "2026-11-02T15:56:28.000Z"
+            "source": "bt",
+            "sourceName": "BT",
+            "title": "Kvinne kjøpte IPTV-abonnement – dømt til å betale 95.000 kroner",
+            "url": "https://www.bt.no/kultur/i/BMgzbw/kvinne-kjoepte-iptv-abonnement-doemt-til-aa-betale-95-000-kroner?utm_medium=rss",
+            "published": "2026-11-03T07:26:45.000Z"
           }
         ]
       }
     ],
     "arbeidsliv": [
       {
-        "id": "s201",
-        "headline": "Mer enn 2400 mister jobben i Ecco",
-        "headlineSource": "aftenposten",
+        "id": "s126",
+        "headline": "Fagforbundet varsler politisk streik for Posten",
+        "headlineSource": "nrk",
         "sourceCount": 2,
-        "score": 1.74,
-        "updated": "2026-11-02T12:59:10.000Z",
+        "score": 1.58,
+        "updated": "2026-11-03T07:00:52.000Z",
+        "tags": [
+          "arbeidsliv",
+          "politikk",
+          "krim"
+        ],
+        "articles": [
+          {
+            "source": "nrk",
+            "sourceName": "NRK",
+            "title": "Fagforbundet varsler politisk streik for Posten",
+            "url": "https://www.nrk.no/nyheter/fagforbundet-varsler-politisk-streik-for-posten-1.18071828",
+            "published": "2026-11-03T06:39:43.000Z"
+          },
+          {
+            "source": "frifagbevegelse",
+            "sourceName": "FriFagbevegelse",
+            "title": "Varsler streik for Posten",
+            "url": "https://www.frifagbevegelse.no/nyheter/fagforbundet-varsler-politisk-streik-for-posten/2729984",
+            "published": "2026-11-03T07:00:52.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s99",
+        "headline": "Tok master for å få jobb. Så fikk Kathrine (25) beskjed om at hun var overkvalifisert.",
+        "headlineSource": "bt",
+        "sourceCount": 2,
+        "score": 1.55,
+        "updated": "2026-11-03T10:38:42.000Z",
+        "tags": [
+          "arbeidsliv"
+        ],
+        "articles": [
+          {
+            "source": "adressa",
+            "sourceName": "Adresseavisen",
+            "title": "Har søkt over 30 jobber: – Føler at jeg faller mellom to stoler",
+            "url": "https://www.adressa.no/nyheter/i/L3297V/kathrine-toennessen-sjo-har-sendt-inn-over-30-jobbsoeknader-fikk-beskjed-om-at-hun-var-overkvalifisert",
+            "published": "2026-11-03T10:38:42.000Z"
+          },
+          {
+            "source": "bt",
+            "sourceName": "BT",
+            "title": "Tok master for å få jobb. Så fikk Kathrine (25) beskjed om at hun var overkvalifisert.",
+            "url": "https://www.bt.no/familieogoppvekst/i/R5ggAO/kathrine-toennessen-sjo-har-sendt-inn-over-30-jobbsoeknader-fikk-beskjed-om-at-hun-var-overkvalifisert?utm_medium=rss",
+            "published": "2026-11-03T04:13:46.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s248",
+        "headline": "NHO med sju forslag til datasenterregulering",
+        "headlineSource": "aftenposten",
+        "sourceCount": 1,
+        "score": 1.03,
+        "updated": "2026-11-03T13:14:30.000Z",
+        "tags": [
+          "arbeidsliv",
+          "teknologi"
+        ],
+        "articles": [
+          {
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "NHO med sju forslag til datasenterregulering",
+            "url": "https://www.aftenposten.no/norge/politikk/i/Kro9Xo/nho-med-sju-forslag-til-datasenterregulering?utm_medium=rss",
+            "published": "2026-11-03T13:14:30.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s277",
+        "headline": "Varsler søksmål - mange i politiet kan få etterbetalt store summer",
+        "headlineSource": "nettavisen",
+        "sourceCount": 1,
+        "score": 0.88,
+        "updated": "2026-11-03T14:37:00.000Z",
+        "tags": [
+          "krim",
+          "arbeidsliv"
+        ],
+        "articles": [
+          {
+            "source": "nettavisen",
+            "sourceName": "Nettavisen",
+            "title": "Varsler søksmål - mange i politiet kan få etterbetalt store summer",
+            "url": "https://www.nettavisen.no/nyheter/politiets-fellesforbund-varsler-soksmal-mange-i-politiet-kan-fa-etterbetalt-store-summer/s/80-95-216389",
+            "published": "2026-11-03T14:37:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s95",
+        "headline": "Mener turistene presser ut ansatte: – Gedigent problem",
+        "headlineSource": "aftenposten",
+        "sourceCount": 1,
+        "score": 0.78,
+        "updated": "2026-11-03T04:00:29.000Z",
         "tags": [
           "arbeidsliv"
         ],
@@ -776,249 +855,79 @@
           {
             "source": "aftenposten",
             "sourceName": "Aftenposten",
-            "title": "Mer enn 2400 mister jobben i Ecco",
-            "url": "https://www.aftenposten.no/okonomi/i/X9rVGm/mer-enn-2400-mister-jobben-i-ecco?utm_medium=rss",
-            "published": "2026-11-02T12:59:10.000Z"
+            "title": "Mener turistene presser ut ansatte: – Gedigent problem",
+            "url": "https://e24.no/i/4OP4ae?utm_medium=rss",
+            "published": "2026-11-03T04:00:29.000Z"
           },
           {
-            "source": "dagbladet",
-            "sourceName": "Dagbladet",
-            "title": "2000 må gå",
-            "url": "https://borsen.dagbladet.no/nyheter/ecco-kutter-2000-stillinger/85369241",
-            "published": "2026-11-02T12:46:45.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s212",
-        "headline": "Slik rømte Bolsonaro til USA",
-        "headlineSource": "nrk",
-        "sourceCount": 1,
-        "score": 1.12,
-        "updated": "2026-11-02T13:45:16.000Z",
-        "tags": [
-          "utenriks",
-          "arbeidsliv"
-        ],
-        "articles": [
-          {
-            "source": "nrk",
-            "sourceName": "NRK",
-            "title": "Slik rømte Bolsonaro til USA",
-            "url": "https://www.nrk.no/urix/slik-romte-bolsonaro-til-usa-1.18070372",
-            "published": "2026-11-02T13:45:16.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s198",
-        "headline": "Foreslår ny helsereform – ansatte frykter mer press",
-        "headlineSource": "nrk",
-        "sourceCount": 1,
-        "score": 1.07,
-        "updated": "2026-11-02T12:35:01.000Z",
-        "tags": [
-          "helse",
-          "arbeidsliv"
-        ],
-        "articles": [
-          {
-            "source": "nrk",
-            "sourceName": "NRK",
-            "title": "Foreslår ny helsereform – ansatte frykter mer press",
-            "url": "https://www.nrk.no/rogaland/forslag-til-ny-helsereform_-ansatte-ved-stavanger-universitetssjukehus-frykter-mer-press-1.18070926",
-            "published": "2026-11-02T12:35:01.000Z"
+            "source": "e24",
+            "sourceName": "E24",
+            "title": "Mener turistene presser ut ansatte: – Gedigent problem",
+            "url": "https://e24.no/naeringsliv/i/4OP4ae/mener-turistene-presser-ut-ansatte-gedigent-problem?utm_medium=rss",
+            "published": "2026-11-03T04:00:00.000Z",
+            "sameAs": "Aftenposten"
           }
         ]
       },
       {
         "id": "s265",
-        "headline": "Liv Østerbø (81) har sykla 1389 kilometer på ein månad",
-        "headlineSource": "bt",
+        "headline": "Taxfree-ansatte sikret jobb: – Utrolig glad",
+        "headlineSource": "frifagbevegelse",
         "sourceCount": 1,
-        "score": 0.88,
-        "updated": "2026-11-02T16:29:33.000Z",
+        "score": 0.77,
+        "updated": "2026-11-03T14:02:41.000Z",
         "tags": [
           "arbeidsliv",
-          "sport"
+          "samferdsel"
         ],
         "articles": [
           {
-            "source": "bt",
-            "sourceName": "BT",
-            "title": "Liv Østerbø (81) har sykla 1389 kilometer på ein månad",
-            "url": "https://www.bt.no/helse/i/58559m/liv-oesterboe-81-har-sykla-1389-kilometer-paa-ein-maanad?utm_medium=rss",
-            "published": "2026-11-02T16:29:33.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s258",
-        "headline": "Google-prosjektet i Skien: Avdekket 143 lovbrudd",
-        "headlineSource": "nettavisen",
-        "sourceCount": 1,
-        "score": 0.86,
-        "updated": "2026-11-02T16:01:43.000Z",
-        "tags": [
-          "teknologi",
-          "arbeidsliv",
-          "klima"
-        ],
-        "articles": [
-          {
-            "source": "nettavisen",
-            "sourceName": "Nettavisen",
-            "title": "Google-prosjektet i Skien: Avdekket 143 lovbrudd",
-            "url": "https://www.nettavisen.no/nyheter/google-prosjektet-i-skien-avdekket-143-lovbrudd/s/80-95-213335",
-            "published": "2026-11-02T16:01:43.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s99",
-        "headline": "Samarbeidspartner må permittere 20 ansatte etter Ruta-konkurs: - Pengene er tapt",
-        "headlineSource": "adressa",
-        "sourceCount": 1,
-        "score": 0.85,
-        "updated": "2026-11-02T15:22:26.000Z",
-        "tags": [
-          "okonomi",
-          "arbeidsliv"
-        ],
-        "articles": [
-          {
-            "source": "adressa",
-            "sourceName": "Adresseavisen",
-            "title": "Samarbeidspartner må permittere 20 ansatte etter Ruta-konkurs: - Pengene er tapt",
-            "url": "https://www.adressa.no/okonomi/i/77evQW/ruta-konkurs-faar-konsekvenser-for-flere-maa-permittere",
-            "published": "2026-11-02T15:22:26.000Z"
+            "source": "frifagbevegelse",
+            "sourceName": "FriFagbevegelse",
+            "title": "Taxfree-ansatte sikret jobb: – Utrolig glad",
+            "url": "https://www.frifagbevegelse.no/hknytt/taxfree-ansatte-sikret-jobb-utrolig-glad/2730450",
+            "published": "2026-11-03T14:02:41.000Z"
           }
         ]
       }
     ],
     "krim": [
       {
-        "id": "s183",
-        "headline": "Nytt funn av parterte katter på Oslo vest",
-        "headlineSource": "aftenposten",
+        "id": "s118",
+        "headline": "Hardt ut mot spekulasjoner: – Sexisme forkledd som politisk analyse",
+        "headlineSource": "tv2",
         "sourceCount": 2,
-        "score": 1.79,
-        "updated": "2026-11-02T15:23:14.000Z",
+        "score": 1.6,
+        "updated": "2026-11-03T09:57:39.000Z",
         "tags": [
           "krim"
         ],
         "articles": [
           {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Nytt funn av parterte katter på Oslo vest",
-            "url": "https://www.aftenposten.no/norge/i/oK5o20/nytt-funn-av-parterte-katter-paa-oslo-vest?utm_medium=rss",
-            "published": "2026-11-02T12:03:00.000Z"
-          },
-          {
-            "source": "nationen",
-            "sourceName": "Nationen",
-            "title": "Gjort funn av nok en død katt på Oslo vest",
-            "url": "https://www.nationen.no/gjort-funn-av-nok-en-dod-katt-pa-oslo-vest/s/80-148-62909",
-            "published": "2026-11-02T15:23:14.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s140",
-        "headline": "– Vi har et stort arbeid foran oss",
-        "headlineSource": "dagsavisen",
-        "sourceCount": 2,
-        "score": 1.69,
-        "updated": "2026-11-02T15:15:00.000Z",
-        "tags": [
-          "helse",
-          "politikk",
-          "krim"
-        ],
-        "articles": [
-          {
-            "source": "dagsavisen",
-            "sourceName": "Dagsavisen",
-            "title": "– Vi har et stort arbeid foran oss",
-            "url": "https://www.dagsavisen.no/nyheter/vi-har-et-stort-stykke-arbeid-foran-oss/10611634",
-            "published": "2026-11-02T15:15:00.000Z"
+            "source": "tv2",
+            "sourceName": "TV 2",
+            "title": "Hardt ut mot spekulasjoner: – Sexisme forkledd som politisk analyse",
+            "url": "https://www.tv2.no/a/19387810",
+            "published": "2026-11-03T05:37:26.000Z"
           },
           {
             "source": "dagbladet",
             "sourceName": "Dagbladet",
-            "title": "Vil legge ned helseforetak",
-            "url": "https://www.dagbladet.no/nyheter/vi-ma-roske-opp/85367869",
-            "published": "2026-11-02T09:47:52.000Z"
-          },
-          {
-            "source": "nettavisen",
-            "sourceName": "Nettavisen",
-            "title": "Nå blir de utskjelte helseforetakene vraket",
-            "url": "https://www.nettavisen.no/norsk-debatt/helsemakten-sentraliseres-til-oslo/o/80-95-213299",
-            "published": "2026-11-02T16:21:11.000Z",
-            "opinion": true
+            "title": "Kan utestenges fra partiet",
+            "url": "https://www.dagbladet.no/nyheter/kan-utestenges-fra-partiet/85372082",
+            "published": "2026-11-03T09:57:39.000Z"
           }
         ]
       },
       {
-        "id": "s125",
-        "headline": "Førdefjorden-henleggelse klages inn til Riksadvokaten av miljøorganisasjon",
-        "headlineSource": "aftenposten",
+        "id": "s126",
+        "headline": "Fagforbundet varsler politisk streik for Posten",
+        "headlineSource": "nrk",
         "sourceCount": 2,
-        "score": 1.57,
-        "updated": "2026-11-02T09:32:12.000Z",
+        "score": 1.58,
+        "updated": "2026-11-03T07:00:52.000Z",
         "tags": [
-          "klima",
-          "krim"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Førdefjorden-henleggelse klages inn til Riksadvokaten av miljøorganisasjon",
-            "url": "https://www.aftenposten.no/norge/i/xlLkrn/foerdefjorden-henleggelse-klages-inn-til-riksadvokaten-av-miljoeorganisasjon?utm_medium=rss",
-            "published": "2026-11-02T09:32:12.000Z"
-          },
-          {
-            "source": "bt",
-            "sourceName": "BT",
-            "title": "Førdefjorden-henleggelse klages inn til Riksadvokaten",
-            "url": "https://www.bt.no/innenriks/i/Kr0AAX/foerdefjorden-henleggelse-klages-inn-til-riksadvokaten-av-miljoeorganisasjon?utm_medium=rss",
-            "published": "2026-11-02T09:20:09.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s187",
-        "headline": "Drapsdømd mann vil sleppe ut til kjærasten – men retten seier nei",
-        "headlineSource": "nrk",
-        "sourceCount": 1,
-        "score": 1.08,
-        "updated": "2026-11-02T12:50:36.000Z",
-        "tags": [
-          "krim",
-          "helse"
-        ],
-        "articles": [
-          {
-            "source": "nrk",
-            "sourceName": "NRK",
-            "title": "Drapsdømd mann vil sleppe ut til kjærasten – men retten seier nei",
-            "url": "https://www.nrk.no/mr/-drapsdomd-mann-vil-sleppe-ut-til-kjaerasten-_-men-retten-seier-nei-1.18071261",
-            "published": "2026-11-02T12:50:36.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s166",
-        "headline": "Sp: Skuffet over at utvalget ikke går lenger",
-        "headlineSource": "nrk",
-        "sourceCount": 1,
-        "score": 1.02,
-        "updated": "2026-11-02T10:59:10.000Z",
-        "tags": [
-          "helse",
+          "arbeidsliv",
           "politikk",
           "krim"
         ],
@@ -1026,329 +935,469 @@
           {
             "source": "nrk",
             "sourceName": "NRK",
-            "title": "Sp: Skuffet over at utvalget ikke går lenger",
-            "url": "https://www.nrk.no/nyheter/sp_-skuffet-over-at-utvalget-ikke-gar-lenger-1.18071170",
-            "published": "2026-11-02T10:59:10.000Z"
+            "title": "Fagforbundet varsler politisk streik for Posten",
+            "url": "https://www.nrk.no/nyheter/fagforbundet-varsler-politisk-streik-for-posten-1.18071828",
+            "published": "2026-11-03T06:39:43.000Z"
+          },
+          {
+            "source": "frifagbevegelse",
+            "sourceName": "FriFagbevegelse",
+            "title": "Varsler streik for Posten",
+            "url": "https://www.frifagbevegelse.no/nyheter/fagforbundet-varsler-politisk-streik-for-posten/2729984",
+            "published": "2026-11-03T07:00:52.000Z"
           }
         ]
       },
       {
-        "id": "s234",
-        "headline": "Ny sikkerhetsavdeling åpnet for Norges mest voldelige psykiatriske pasienter",
+        "id": "s86",
+        "headline": "Kvinne kjøpte IPTV-abonnement – må betale 95.000",
         "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 1.01,
-        "updated": "2026-11-02T14:42:20.000Z",
+        "sourceCount": 2,
+        "score": 1.56,
+        "updated": "2026-11-03T07:26:45.000Z",
         "tags": [
-          "helse",
-          "beredskap",
+          "okonomi",
           "krim"
         ],
         "articles": [
           {
             "source": "aftenposten",
             "sourceName": "Aftenposten",
-            "title": "Ny sikkerhetsavdeling åpnet for Norges mest voldelige psykiatriske pasienter",
-            "url": "https://www.aftenposten.no/norge/i/BMOokE/ny-sikkerhetsavdeling-aapnet-for-norges-mest-voldelige-psykiatriske-pasienter?utm_medium=rss",
-            "published": "2026-11-02T14:42:20.000Z"
+            "title": "Kvinne kjøpte IPTV-abonnement – må betale 95.000",
+            "url": "https://www.aftenposten.no/norge/i/31v4vL/kvinne-kjoepte-iptv-abonnement-maa-betale-95000?utm_medium=rss",
+            "published": "2026-11-02T23:21:36.000Z"
+          },
+          {
+            "source": "bt",
+            "sourceName": "BT",
+            "title": "Kvinne kjøpte IPTV-abonnement – dømt til å betale 95.000 kroner",
+            "url": "https://www.bt.no/kultur/i/BMgzbw/kvinne-kjoepte-iptv-abonnement-doemt-til-aa-betale-95-000-kroner?utm_medium=rss",
+            "published": "2026-11-03T07:26:45.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s240",
+        "headline": "Chiakha etter rasismebråket: – Jeg er ikke i tvil om hva jeg hørte",
+        "headlineSource": "nrk",
+        "sourceCount": 1,
+        "score": 1.15,
+        "updated": "2026-11-03T12:46:37.000Z",
+        "tags": [
+          "krim"
+        ],
+        "articles": [
+          {
+            "source": "nrk",
+            "sourceName": "NRK",
+            "title": "Chiakha etter rasismebråket: – Jeg er ikke i tvil om hva jeg hørte",
+            "url": "https://www.nrk.no/trondelag/amin-chiakha-uttaler-seg-etter-rasismebraket-under-kampen-mellom-rosenborg-og-fredrikstad-1.18072111",
+            "published": "2026-11-03T12:46:37.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s232",
+        "headline": "FAU-lederen innrømmer underslag fra 17. mai-kassen",
+        "headlineSource": "aftenposten",
+        "sourceCount": 1,
+        "score": 1,
+        "updated": "2026-11-03T12:32:37.000Z",
+        "tags": [
+          "krim"
+        ],
+        "articles": [
+          {
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "FAU-lederen innrømmer underslag fra 17. mai-kassen",
+            "url": "https://www.aftenposten.no/norge/i/64L03o/fau-lederen-innroemmer-underslag-fra-17-mai-kassen?utm_medium=rss",
+            "published": "2026-11-03T12:32:37.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s277",
+        "headline": "Varsler søksmål - mange i politiet kan få etterbetalt store summer",
+        "headlineSource": "nettavisen",
+        "sourceCount": 1,
+        "score": 0.88,
+        "updated": "2026-11-03T14:37:00.000Z",
+        "tags": [
+          "krim",
+          "arbeidsliv"
+        ],
+        "articles": [
+          {
+            "source": "nettavisen",
+            "sourceName": "Nettavisen",
+            "title": "Varsler søksmål - mange i politiet kan få etterbetalt store summer",
+            "url": "https://www.nettavisen.no/nyheter/politiets-fellesforbund-varsler-soksmal-mange-i-politiet-kan-fa-etterbetalt-store-summer/s/80-95-216389",
+            "published": "2026-11-03T14:37:00.000Z"
           }
         ]
       }
     ],
     "helse": [
       {
-        "id": "s140",
-        "headline": "– Vi har et stort arbeid foran oss",
-        "headlineSource": "dagsavisen",
+        "id": "s148",
+        "headline": "Alvorlig elsparkesykkel-ulykke: Mann fløyet til sykehus",
+        "headlineSource": "nrk",
         "sourceCount": 2,
-        "score": 1.69,
-        "updated": "2026-11-02T15:15:00.000Z",
+        "score": 1.89,
+        "updated": "2026-11-03T08:23:30.000Z",
         "tags": [
           "helse",
-          "politikk",
-          "krim"
+          "kultur"
         ],
         "articles": [
           {
-            "source": "dagsavisen",
-            "sourceName": "Dagsavisen",
-            "title": "– Vi har et stort arbeid foran oss",
-            "url": "https://www.dagsavisen.no/nyheter/vi-har-et-stort-stykke-arbeid-foran-oss/10611634",
-            "published": "2026-11-02T15:15:00.000Z"
+            "source": "nrk",
+            "sourceName": "NRK",
+            "title": "Alvorlig elsparkesykkel-ulykke: Mann fløyet til sykehus",
+            "url": "https://www.nrk.no/ostfold/floyet-til-sykehuset-etter-sparkesykkelulykke-1.18071970",
+            "published": "2026-11-03T08:23:30.000Z"
           },
           {
-            "source": "dagbladet",
-            "sourceName": "Dagbladet",
-            "title": "Vil legge ned helseforetak",
-            "url": "https://www.dagbladet.no/nyheter/vi-ma-roske-opp/85367869",
-            "published": "2026-11-02T09:47:52.000Z"
-          },
-          {
-            "source": "nettavisen",
-            "sourceName": "Nettavisen",
-            "title": "Nå blir de utskjelte helseforetakene vraket",
-            "url": "https://www.nettavisen.no/norsk-debatt/helsemakten-sentraliseres-til-oslo/o/80-95-213299",
-            "published": "2026-11-02T16:21:11.000Z",
-            "opinion": true
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "Ulykke med sparkesykkel i Moss: – Framstår alvorlig",
+            "url": "https://www.aftenposten.no/norge/i/L32mKp/ulykke-med-sparkesykkel-i-moss-framstaar-alvorlig?utm_medium=rss",
+            "published": "2026-11-03T08:20:15.000Z"
           }
         ]
       },
       {
-        "id": "s264",
-        "headline": "Traumekirurg: – Norske sykehus er ikke forberedt på krig",
+        "id": "s159",
+        "headline": "Regjeringa gir grønt lys for å fjerne elbilrabatten i bomringen",
         "headlineSource": "nrk",
         "sourceCount": 1,
-        "score": 1.22,
-        "updated": "2026-11-02T16:24:49.000Z",
+        "score": 1.02,
+        "updated": "2026-11-03T08:55:50.000Z",
+        "tags": [
+          "politikk",
+          "helse"
+        ],
+        "articles": [
+          {
+            "source": "nrk",
+            "sourceName": "NRK",
+            "title": "Regjeringa gir grønt lys for å fjerne elbilrabatten i bomringen",
+            "url": "https://www.nrk.no/rogaland/regjeringa-har-gitt-gront-lys-for-a-fjerne-elbilrabatten-i-bomringen-_-mdg-varslar-omkamp-1.18069419",
+            "published": "2026-11-03T08:55:50.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s225",
+        "headline": "Seks leger starter nytt legesenter",
+        "headlineSource": "adressa",
+        "sourceCount": 1,
+        "score": 0.81,
+        "updated": "2026-11-03T12:16:04.000Z",
+        "tags": [
+          "helse"
+        ],
+        "articles": [
+          {
+            "source": "adressa",
+            "sourceName": "Adresseavisen",
+            "title": "Seks leger starter nytt legesenter",
+            "url": "https://www.adressa.no/nyheter/trondheim/i/R5g1x8/seks-leger-starter-nytt-legesenter",
+            "published": "2026-11-03T12:16:04.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s190",
+        "headline": "Fikk bind-råd av legen: - Det ble katastrofe",
+        "headlineSource": "dagbladet",
+        "sourceCount": 1,
+        "score": 0.77,
+        "updated": "2026-11-03T10:20:57.000Z",
         "tags": [
           "helse",
           "politikk"
         ],
         "articles": [
           {
-            "source": "nrk",
-            "sourceName": "NRK",
-            "title": "Traumekirurg: – Norske sykehus er ikke forberedt på krig",
-            "url": "https://www.nrk.no/tromsogfinnmark/kirurg-og-overlege-mener-norge-har-svaert-darlig-krigsberedskap-innen-helse-1.18067388",
-            "published": "2026-11-02T16:24:49.000Z"
+            "source": "dagbladet",
+            "sourceName": "Dagbladet",
+            "title": "Fikk bind-råd av legen: - Det ble katastrofe",
+            "url": "https://dinside.dagbladet.no/fritid/fikk-bind-rad-mot-diare-det-ble-katastrofe/85367727",
+            "published": "2026-11-03T10:20:57.000Z"
           }
         ]
       },
       {
-        "id": "s187",
-        "headline": "Drapsdømd mann vil sleppe ut til kjærasten – men retten seier nei",
+        "id": "s235",
+        "headline": "Ansatte blir syke på jobb. Ingen tar ansvar",
+        "headlineSource": "frifagbevegelse",
+        "sourceCount": 1,
+        "score": 0.73,
+        "updated": "2026-11-03T12:38:46.000Z",
+        "tags": [
+          "arbeidsliv",
+          "helse"
+        ],
+        "articles": [
+          {
+            "source": "frifagbevegelse",
+            "sourceName": "FriFagbevegelse",
+            "title": "Ansatte blir syke på jobb. Ingen tar ansvar",
+            "url": "https://www.frifagbevegelse.no/nyheter/ansatte-far-utslett-blor-neseblod-og-blir-syke-pa-jobb/2730326",
+            "published": "2026-11-03T12:38:46.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s31",
+        "headline": "Pasient døde: Innrømmer dårlig vurdering",
         "headlineSource": "nrk",
         "sourceCount": 1,
-        "score": 1.08,
-        "updated": "2026-11-02T12:50:36.000Z",
+        "score": 0.72,
+        "updated": "2026-11-02T18:22:12.000Z",
         "tags": [
-          "krim",
           "helse"
         ],
         "articles": [
           {
             "source": "nrk",
             "sourceName": "NRK",
-            "title": "Drapsdømd mann vil sleppe ut til kjærasten – men retten seier nei",
-            "url": "https://www.nrk.no/mr/-drapsdomd-mann-vil-sleppe-ut-til-kjaerasten-_-men-retten-seier-nei-1.18071261",
-            "published": "2026-11-02T12:50:36.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s198",
-        "headline": "Foreslår ny helsereform – ansatte frykter mer press",
-        "headlineSource": "nrk",
-        "sourceCount": 1,
-        "score": 1.07,
-        "updated": "2026-11-02T12:35:01.000Z",
-        "tags": [
-          "helse",
-          "arbeidsliv"
-        ],
-        "articles": [
-          {
-            "source": "nrk",
-            "sourceName": "NRK",
-            "title": "Foreslår ny helsereform – ansatte frykter mer press",
-            "url": "https://www.nrk.no/rogaland/forslag-til-ny-helsereform_-ansatte-ved-stavanger-universitetssjukehus-frykter-mer-press-1.18070926",
-            "published": "2026-11-02T12:35:01.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s166",
-        "headline": "Sp: Skuffet over at utvalget ikke går lenger",
-        "headlineSource": "nrk",
-        "sourceCount": 1,
-        "score": 1.02,
-        "updated": "2026-11-02T10:59:10.000Z",
-        "tags": [
-          "helse",
-          "politikk",
-          "krim"
-        ],
-        "articles": [
-          {
-            "source": "nrk",
-            "sourceName": "NRK",
-            "title": "Sp: Skuffet over at utvalget ikke går lenger",
-            "url": "https://www.nrk.no/nyheter/sp_-skuffet-over-at-utvalget-ikke-gar-lenger-1.18071170",
-            "published": "2026-11-02T10:59:10.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s238",
-        "headline": "Billig medisin gir håp: – Kan få slutt på hiv-epidemien",
-        "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 1.02,
-        "updated": "2026-11-02T14:54:26.000Z",
-        "tags": [
-          "helse"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Billig medisin gir håp: – Kan få slutt på hiv-epidemien",
-            "url": "https://www.aftenposten.no/verden/i/kv72ga/billig-medisin-gir-haap-kan-faa-slutt-paa-hiv-epidemien?utm_medium=rss",
-            "published": "2026-11-02T14:54:26.000Z"
+            "title": "Pasient døde: Innrømmer dårlig vurdering",
+            "url": "https://www.nrk.no/tromsogfinnmark/varsel_-pasienten-klarte-ikke-a-ga-til-ambulansen-_-ble-utskrevet-likevel-_-dode-fa-dager-senere-1.18036340",
+            "published": "2026-11-02T18:22:12.000Z"
           }
         ]
       }
     ],
     "klima": [
       {
-        "id": "s125",
-        "headline": "Førdefjorden-henleggelse klages inn til Riksadvokaten av miljøorganisasjon",
-        "headlineSource": "aftenposten",
+        "id": "s53",
+        "headline": "Salmar slo forventningene i tredje kvartal",
+        "headlineSource": "e24",
         "sourceCount": 2,
-        "score": 1.57,
-        "updated": "2026-11-02T09:32:12.000Z",
+        "score": 1.51,
+        "updated": "2026-11-03T06:13:39.000Z",
         "tags": [
-          "klima",
-          "krim"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Førdefjorden-henleggelse klages inn til Riksadvokaten av miljøorganisasjon",
-            "url": "https://www.aftenposten.no/norge/i/xlLkrn/foerdefjorden-henleggelse-klages-inn-til-riksadvokaten-av-miljoeorganisasjon?utm_medium=rss",
-            "published": "2026-11-02T09:32:12.000Z"
-          },
-          {
-            "source": "bt",
-            "sourceName": "BT",
-            "title": "Førdefjorden-henleggelse klages inn til Riksadvokaten",
-            "url": "https://www.bt.no/innenriks/i/Kr0AAX/foerdefjorden-henleggelse-klages-inn-til-riksadvokaten-av-miljoeorganisasjon?utm_medium=rss",
-            "published": "2026-11-02T09:20:09.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s258",
-        "headline": "Google-prosjektet i Skien: Avdekket 143 lovbrudd",
-        "headlineSource": "nettavisen",
-        "sourceCount": 1,
-        "score": 0.86,
-        "updated": "2026-11-02T16:01:43.000Z",
-        "tags": [
-          "teknologi",
-          "arbeidsliv",
-          "klima"
-        ],
-        "articles": [
-          {
-            "source": "nettavisen",
-            "sourceName": "Nettavisen",
-            "title": "Google-prosjektet i Skien: Avdekket 143 lovbrudd",
-            "url": "https://www.nettavisen.no/nyheter/google-prosjektet-i-skien-avdekket-143-lovbrudd/s/80-95-213335",
-            "published": "2026-11-02T16:01:43.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s162",
-        "headline": "142 nye viner fra Burgund og Champagne: Her er de beste kjøpene",
-        "headlineSource": "dn",
-        "sourceCount": 1,
-        "score": 0.82,
-        "updated": "2026-11-02T10:57:42.000Z",
-        "tags": [
+          "okonomi",
           "klima"
         ],
         "articles": [
           {
             "source": "dn",
             "sourceName": "DN",
-            "title": "142 nye viner fra Burgund og Champagne: Her er de beste kjøpene",
-            "url": "https://www.dn.no/smak/vin/142-nye-viner-fra-burgund-og-champagne-her-er-de-beste-kjopene/2-1-2066006",
-            "published": "2026-11-02T10:57:42.000Z"
+            "title": "Salmar slår forventningene – venter lavere kostnadsnivå",
+            "url": "https://www.dn.no/havbruk/salmar-slar-forventningene-venter-lavere-kostnadsniva/2-1-2067966",
+            "published": "2026-11-03T05:31:01.000Z"
+          },
+          {
+            "source": "e24",
+            "sourceName": "E24",
+            "title": "Salmar slo forventningene i tredje kvartal",
+            "url": "https://e24.no/hav-og-sjoemat/i/n9pmA5/salmar-hadde-driftsresultat-paa-1-6-milliarder-kroner-i-tredje-kvartal?utm_medium=rss",
+            "published": "2026-11-03T05:30:44.000Z"
+          },
+          {
+            "source": "adressa",
+            "sourceName": "Adresseavisen",
+            "title": "Salmar slo forventningene i tredje kvartal",
+            "url": "https://www.adressa.no/mn24/i/eG9O4K/salmar-slo-forventningene-i-tredje-kvartal",
+            "published": "2026-11-03T06:13:39.000Z",
+            "sameAs": "E24"
           }
         ]
       },
       {
-        "id": "s250",
-        "headline": "Endrer utslippstillatelse på settefiskanlegg: – Vi er fornøyde",
-        "headlineSource": "an",
+        "id": "s150",
+        "headline": "Varmeste oktober siden 2000 – over 60 temperaturrekorder",
+        "headlineSource": "aftenposten",
         "sourceCount": 1,
-        "score": 0.76,
-        "updated": "2026-11-02T15:45:25.000Z",
+        "score": 0.89,
+        "updated": "2026-11-03T08:28:01.000Z",
         "tags": [
-          "klima",
-          "nordland"
+          "klima"
         ],
         "articles": [
           {
-            "source": "an",
-            "sourceName": "Avisa Nordland",
-            "title": "Endrer utslippstillatelse på settefiskanlegg: – Vi er fornøyde",
-            "url": "https://www.an.no/endrer-utslippstillatelse-pa-settefiskanlegg-vi-er-fornoyde/s/80-4-48372",
-            "published": "2026-11-02T15:45:25.000Z"
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "Varmeste oktober siden 2000 – over 60 temperaturrekorder",
+            "url": "https://www.aftenposten.no/norge/i/L32epV/varmeste-oktober-siden-2000-over-60-temperaturrekorder?utm_medium=rss",
+            "published": "2026-11-03T08:26:46.000Z"
+          },
+          {
+            "source": "bt",
+            "sourceName": "BT",
+            "title": "Varmeste oktober siden 2000 – over 60 temperaturrekorder",
+            "url": "https://www.bt.no/innenriks/i/Grpn1V/varmeste-oktober-siden-2000-over-60-temperaturrekorder?utm_medium=rss",
+            "published": "2026-11-03T08:28:01.000Z",
+            "sameAs": "Aftenposten"
+          }
+        ]
+      },
+      {
+        "id": "s212",
+        "headline": "Tana tørrere enn Ghana: Ekstremtørke og rekordvarme i Finnmark",
+        "headlineSource": "nationen",
+        "sourceCount": 1,
+        "score": 0.71,
+        "updated": "2026-11-03T11:32:40.000Z",
+        "tags": [
+          "klima"
+        ],
+        "articles": [
+          {
+            "source": "nationen",
+            "sourceName": "Nationen",
+            "title": "Tana tørrere enn Ghana: Ekstremtørke og rekordvarme i Finnmark",
+            "url": "https://www.nationen.no/tana-torrere-enn-ghana-ekstremtorke-og-rekordvarme-i-finnmark/s/80-148-63371",
+            "published": "2026-11-03T11:32:40.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s122",
+        "headline": "Sp krever skog-grep: – Noen av de billigste og mest fornuftige klimatiltakene",
+        "headlineSource": "nationen",
+        "sourceCount": 1,
+        "score": 0.6,
+        "updated": "2026-11-03T06:09:57.000Z",
+        "tags": [
+          "klima",
+          "samferdsel"
+        ],
+        "articles": [
+          {
+            "source": "nationen",
+            "sourceName": "Nationen",
+            "title": "Sp krever skog-grep: – Noen av de billigste og mest fornuftige klimatiltakene",
+            "url": "https://www.nationen.no/krever-skog-grep-noen-av-de-billigste-og-mest-fornuftige-klimatiltakene/s/80-148-61868",
+            "published": "2026-11-03T06:09:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s62",
+        "headline": "To skritt tilbake",
+        "headlineSource": "klassekampen",
+        "sourceCount": 1,
+        "score": 0.57,
+        "updated": "2026-11-02T23:01:00.000Z",
+        "tags": [
+          "klima",
+          "politikk"
+        ],
+        "articles": [
+          {
+            "source": "klassekampen",
+            "sourceName": "Klassekampen",
+            "title": "To skritt tilbake",
+            "url": "https://klassekampen.no/artikkel/2026-11-03/to-skritt-tilbake",
+            "published": "2026-11-02T23:01:00.000Z"
           }
         ]
       }
     ],
     "utenriks": [
       {
-        "id": "s136",
-        "headline": "Kjøletrøbbel hos matbutikker i Sverige, Belgia og Luxembourg",
-        "headlineSource": "bt",
-        "sourceCount": 2,
-        "score": 1.59,
-        "updated": "2026-11-02T09:52:35.000Z",
+        "id": "s162",
+        "headline": "250 millioner til Telemark - skal svekke Kina",
+        "headlineSource": "dagbladet",
+        "sourceCount": 3,
+        "score": 2.34,
+        "updated": "2026-11-03T10:55:48.000Z",
         "tags": [
           "utenriks",
-          "teknologi"
+          "sport",
+          "okonomi"
         ],
         "articles": [
           {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Svenske matvarebutikker fikk trøbbel med kjøleanleggene: – Cybersabotasje eller hybrid krigføring",
-            "url": "https://www.aftenposten.no/verden/i/1oE9qK/svenske-matvarebutikker-fikk-troebbel-med-kjoeleanleggene-frykter-hacking?utm_medium=rss",
-            "published": "2026-11-02T09:38:40.000Z"
+            "source": "dn",
+            "sourceName": "DN",
+            "title": "Jakter på sjeldne jordarter: Investerer 250 mill.",
+            "url": "https://www.dn.no/industri/jakter-pa-sjeldne-jordarter-investerer-250-mill/2-1-2068109",
+            "published": "2026-11-03T10:55:48.000Z"
           },
           {
-            "source": "bt",
-            "sourceName": "BT",
-            "title": "Kjøletrøbbel hos matbutikker i Sverige, Belgia og Luxembourg",
-            "url": "https://www.bt.no/innenriks/i/qy0gVL/svenske-matvarebutikker-fikk-troebbel-med-kjoeleanleggene-frykter-hacking?utm_medium=rss",
-            "published": "2026-11-02T09:52:35.000Z"
+            "source": "dagbladet",
+            "sourceName": "Dagbladet",
+            "title": "250 millioner til Telemark - skal svekke Kina",
+            "url": "https://borsen.dagbladet.no/nyheter/250-millioner-til-telemark-skal-svekke-kina/85372471",
+            "published": "2026-11-03T09:00:10.000Z"
+          },
+          {
+            "source": "frifagbevegelse",
+            "sourceName": "FriFagbevegelse",
+            "title": "Norge tar opp kampen med Kina",
+            "url": "https://www.frifagbevegelse.no/nyheter/na-starter-eventyret-pa-fensfeltet/2730070",
+            "published": "2026-11-03T10:04:35.000Z"
           }
         ]
       },
       {
-        "id": "s212",
-        "headline": "Slik rømte Bolsonaro til USA",
+        "id": "s253",
+        "headline": "Trump sier han vil avslutte USAs støtte til Israel i slutten av året",
         "headlineSource": "nrk",
-        "sourceCount": 1,
-        "score": 1.12,
-        "updated": "2026-11-02T13:45:16.000Z",
+        "sourceCount": 2,
+        "score": 2.22,
+        "updated": "2026-11-03T13:38:15.000Z",
         "tags": [
           "utenriks",
-          "arbeidsliv"
+          "politikk"
         ],
         "articles": [
           {
             "source": "nrk",
             "sourceName": "NRK",
-            "title": "Slik rømte Bolsonaro til USA",
-            "url": "https://www.nrk.no/urix/slik-romte-bolsonaro-til-usa-1.18070372",
-            "published": "2026-11-02T13:45:16.000Z"
+            "title": "Trump sier han vil avslutte USAs støtte til Israel i slutten av året",
+            "url": "https://www.nrk.no/nyheter/trump-sier-han-vil-avslutte-usas-stotte-til-israel-i-slutten-av-aret-1.18072465",
+            "published": "2026-11-03T13:38:15.000Z"
+          },
+          {
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "Trump: USA skal slutte å gi penger til Israel",
+            "url": "https://www.aftenposten.no/verden/i/vlajQ4/trump-usa-skal-slutte-aa-gi-penger-til-israel?utm_medium=rss",
+            "published": "2026-11-03T13:29:32.000Z"
           }
         ]
       },
       {
-        "id": "s107",
-        "headline": "Oljeprisen faller brått etter Iran-rykter",
+        "id": "s147",
+        "headline": "Melania Trump skal møte representanter for Russland og Ukraina",
         "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 0.98,
-        "updated": "2026-11-02T13:51:10.000Z",
+        "sourceCount": 2,
+        "score": 2.03,
+        "updated": "2026-11-03T14:15:28.000Z",
+        "tags": [
+          "utenriks"
+        ],
+        "articles": [
+          {
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "Melania Trump skal møte representanter for Russland og Ukraina",
+            "url": "https://www.aftenposten.no/verden/i/p135aW/melania-trump-skal-moete-representanter-for-russland-og-ukraina?utm_medium=rss",
+            "published": "2026-11-03T12:39:14.000Z"
+          },
+          {
+            "source": "tv2",
+            "sourceName": "TV 2",
+            "title": "Melania Trump samler Russland og Ukraina i Det hvite hus",
+            "url": "https://www.tv2.no/a/19390069",
+            "published": "2026-11-03T14:15:28.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s165",
+        "headline": "Slik følger du USA-valget som en proff",
+        "headlineSource": "aftenposten",
+        "sourceCount": 2,
+        "score": 1.98,
+        "updated": "2026-11-03T13:31:21.000Z",
         "tags": [
           "utenriks",
           "okonomi"
@@ -1357,201 +1406,205 @@
           {
             "source": "aftenposten",
             "sourceName": "Aftenposten",
-            "title": "Oljeprisen faller brått etter Iran-rykter",
-            "url": "https://e24.no/i/gdooRL?utm_medium=rss",
-            "published": "2026-11-02T13:51:10.000Z"
+            "title": "Slik følger du USA-valget som en proff",
+            "url": "https://www.aftenposten.no/verden/i/jv4W6w/slik-foelger-du-mellomvalget-i-usa?utm_medium=rss",
+            "published": "2026-11-03T13:31:21.000Z"
           },
           {
             "source": "e24",
             "sourceName": "E24",
-            "title": "Oljeprisen faller brått etter Iran-rykter",
-            "url": "https://e24.no/boers-og-finans/i/gdooRL/oljeprisen-faller-braatt-etter-iran-rykter?utm_medium=rss",
-            "published": "2026-11-02T13:48:48.000Z",
-            "sameAs": "Aftenposten"
+            "title": "Hvordan vil valget i USA påvirke aksjemarkedet?",
+            "url": "https://e24.no/boers-og-finans/i/GrVwRV/hvordan-vil-valget-i-usa-paavirke-aksjemarkedet?utm_medium=rss",
+            "published": "2026-11-03T09:15:10.000Z"
           }
         ]
       },
       {
-        "id": "s138",
-        "headline": "Tenketank: Russland tapte terreng i Ukraina i oktober",
+        "id": "s261",
+        "headline": "Olje- og gassprisene faller etter nye meldinger om fredshåp",
+        "headlineSource": "dn",
+        "sourceCount": 2,
+        "score": 1.91,
+        "updated": "2026-11-03T13:56:55.000Z",
+        "tags": [
+          "okonomi",
+          "utenriks"
+        ],
+        "articles": [
+          {
+            "source": "dn",
+            "sourceName": "DN",
+            "title": "Olje- og gassprisene faller etter nye meldinger om fredshåp",
+            "url": "https://www.dn.no/bors/olje/gasspriser/iran/olje-og-gassprisene-faller-etter-nye-meldinger-om-fredshap/2-1-2068486",
+            "published": "2026-11-03T13:56:55.000Z"
+          },
+          {
+            "source": "e24",
+            "sourceName": "E24",
+            "title": "Olje- og gassprisen faller brått",
+            "url": "https://e24.no/boers-og-finans/i/Og47Ok/olje-og-gassprisen-faller-braatt-drar-med-seg-oslo-boers-nedover?utm_medium=rss",
+            "published": "2026-11-03T13:56:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s209",
+        "headline": "Sist kom han som Nato-sjef. Nå møter Stoltenberg et Ukraina i pengekrise.",
         "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 0.97,
-        "updated": "2026-11-02T13:22:13.000Z",
+        "sourceCount": 2,
+        "score": 1.84,
+        "updated": "2026-11-03T11:20:03.000Z",
         "tags": [
           "utenriks",
-          "teknologi"
+          "politikk",
+          "okonomi"
         ],
         "articles": [
           {
             "source": "aftenposten",
             "sourceName": "Aftenposten",
-            "title": "Tenketank: Russland tapte terreng i Ukraina i oktober",
-            "url": "https://www.aftenposten.no/verden/i/ylWPBr/tenketank-russland-tapte-terreng-i-ukraina-i-oktober?utm_medium=rss",
-            "published": "2026-11-02T13:22:13.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s176",
-        "headline": "Svensk radio: Norsk 16-åring dømt til fengsel for drapsforberedelser i Sverige",
-        "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 0.92,
-        "updated": "2026-11-02T11:37:18.000Z",
-        "tags": [
-          "krim",
-          "utenriks"
-        ],
-        "articles": [
+            "title": "Sist kom han som Nato-sjef. Nå møter Stoltenberg et Ukraina i pengekrise.",
+            "url": "https://www.aftenposten.no/verden/i/312lJM/finansminister-jens-stoltenberg-er-i-kyiv-mens-ukraina-gaar-inn-i-en-av-de-toeffeste-vintrene-siden-fullskala-invasjonen?utm_medium=rss",
+            "published": "2026-11-03T11:20:03.000Z"
+          },
           {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Svensk radio: Norsk 16-åring dømt til fengsel for drapsforberedelser i Sverige",
-            "url": "https://www.aftenposten.no/verden/i/Kr0Ja7/svensk-radio-norsk-16-aaring-doemt-til-fengsel-for-drapsforberedelser-i-sverige?utm_medium=rss",
-            "published": "2026-11-02T11:37:18.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s161",
-        "headline": "Russland gjenopptar angrepene i Kherson-regionen etter våpenhvile",
-        "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 0.9,
-        "updated": "2026-11-02T10:51:39.000Z",
-        "tags": [
-          "utenriks"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Russland gjenopptar angrepene i Kherson-regionen etter våpenhvile",
-            "url": "https://www.aftenposten.no/verden/i/31yG8X/russland-gjenopptar-angrepene-i-kherson-regionen-etter-vaapenhvile?utm_medium=rss",
-            "published": "2026-11-02T10:51:39.000Z"
+            "source": "tv2",
+            "sourceName": "TV 2",
+            "title": "Stoltenberg på besøk i Ukraina – varsler ny fondsordning",
+            "url": "https://www.tv2.no/a/19386635",
+            "published": "2026-11-03T11:19:55.000Z"
           }
         ]
       }
     ],
     "sport": [
       {
-        "id": "s38",
-        "headline": "Tidenes yngste i tårer over VM-gull – men for «feil» team",
-        "headlineSource": "nrk",
-        "sourceCount": 2,
-        "score": 1.3,
-        "updated": "2026-11-01T22:24:26.000Z",
+        "id": "s162",
+        "headline": "250 millioner til Telemark - skal svekke Kina",
+        "headlineSource": "dagbladet",
+        "sourceCount": 3,
+        "score": 2.34,
+        "updated": "2026-11-03T10:55:48.000Z",
         "tags": [
-          "sport"
+          "utenriks",
+          "sport",
+          "okonomi"
         ],
         "articles": [
           {
-            "source": "nrk",
-            "sourceName": "NRK",
-            "title": "Tidenes yngste i tårer over VM-gull – men for «feil» team",
-            "url": "https://www.nrk.no/sport/andrea-kimi-antonelli-blir-verdensmester-i-formel-1-1.18070787",
-            "published": "2026-11-01T22:24:26.000Z"
+            "source": "dn",
+            "sourceName": "DN",
+            "title": "Jakter på sjeldne jordarter: Investerer 250 mill.",
+            "url": "https://www.dn.no/industri/jakter-pa-sjeldne-jordarter-investerer-250-mill/2-1-2068109",
+            "published": "2026-11-03T10:55:48.000Z"
           },
           {
             "source": "dagbladet",
             "sourceName": "Dagbladet",
-            "title": "Tidenes yngste: - Gråter og gråter",
-            "url": "https://www.dagbladet.no/sport/tidenes-yngste-verdensmester/85366983",
-            "published": "2026-11-01T22:23:14.000Z"
+            "title": "250 millioner til Telemark - skal svekke Kina",
+            "url": "https://borsen.dagbladet.no/nyheter/250-millioner-til-telemark-skal-svekke-kina/85372471",
+            "published": "2026-11-03T09:00:10.000Z"
+          },
+          {
+            "source": "frifagbevegelse",
+            "sourceName": "FriFagbevegelse",
+            "title": "Norge tar opp kampen med Kina",
+            "url": "https://www.frifagbevegelse.no/nyheter/na-starter-eventyret-pa-fensfeltet/2730070",
+            "published": "2026-11-03T10:04:35.000Z"
           }
         ]
       },
       {
-        "id": "s265",
-        "headline": "Liv Østerbø (81) har sykla 1389 kilometer på ein månad",
+        "id": "s229",
+        "headline": "Håndballstjernen Skogrand varsler karriereslutt: – Det er vemodig",
         "headlineSource": "bt",
-        "sourceCount": 1,
-        "score": 0.88,
-        "updated": "2026-11-02T16:29:33.000Z",
+        "sourceCount": 2,
+        "score": 1.63,
+        "updated": "2026-11-03T12:23:18.000Z",
         "tags": [
-          "arbeidsliv",
           "sport"
         ],
         "articles": [
           {
             "source": "bt",
             "sourceName": "BT",
-            "title": "Liv Østerbø (81) har sykla 1389 kilometer på ein månad",
-            "url": "https://www.bt.no/helse/i/58559m/liv-oesterboe-81-har-sykla-1389-kilometer-paa-ein-maanad?utm_medium=rss",
-            "published": "2026-11-02T16:29:33.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s263",
-        "headline": "Haaland og Hegerberg kan få utmerkelse",
-        "headlineSource": "nettavisen",
-        "sourceCount": 1,
-        "score": 0.87,
-        "updated": "2026-11-02T16:07:46.000Z",
-        "tags": [
-          "sport"
-        ],
-        "articles": [
-          {
-            "source": "nettavisen",
-            "sourceName": "Nettavisen",
-            "title": "Haaland og Hegerberg kan få utmerkelse",
-            "url": "https://www.nettavisen.no/sport/haaland-og-hegerberg-kan-fa-utmerkelse/s/80-95-213356",
-            "published": "2026-11-02T16:07:46.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s241",
-        "headline": "Fortsatt tause",
-        "headlineSource": "dagbladet",
-        "sourceCount": 1,
-        "score": 0.84,
-        "updated": "2026-11-02T15:04:36.000Z",
-        "tags": [
-          "sport"
-        ],
-        "articles": [
+            "title": "Håndballstjernen Skogrand varsler karriereslutt: – Det er vemodig",
+            "url": "https://www.bt.no/sport/i/BMgBpe/haandballstjernen-skogrand-varsler-karriereslutt-det-er-vemodig?utm_medium=rss",
+            "published": "2026-11-03T12:23:18.000Z"
+          },
           {
             "source": "dagbladet",
             "sourceName": "Dagbladet",
-            "title": "Fortsatt tause",
-            "url": "https://www.dagbladet.no/sport/uefa-har-ikke-fatt-svar/85370582",
-            "published": "2026-11-02T15:04:36.000Z"
+            "title": "Ferdig",
+            "url": "https://www.dagbladet.no/sport/handballstjerna-varsler-karriereslutt/85373909",
+            "published": "2026-11-03T12:23:00.000Z"
           }
         ]
       },
       {
-        "id": "s145",
-        "headline": "Lille-treneren med klar beskjed om Glimt: – Et fryktinngytende lag",
-        "headlineSource": "an",
-        "sourceCount": 1,
-        "score": 0.76,
-        "updated": "2026-11-02T15:48:04.000Z",
+        "id": "s208",
+        "headline": "Northug-festival konkurs",
+        "headlineSource": "adressa",
+        "sourceCount": 2,
+        "score": 1.59,
+        "updated": "2026-11-03T11:34:44.000Z",
         "tags": [
-          "sport",
-          "nordland",
-          "okonomi"
+          "okonomi",
+          "kultur",
+          "sport"
         ],
         "articles": [
           {
-            "source": "an",
-            "sourceName": "Avisa Nordland",
-            "title": "Lille-treneren med klar beskjed om Glimt: – Et fryktinngytende lag",
-            "url": "https://www.an.no/lille-treneren-med-klar-beskjed-om-glimt-et-fryktinngytende-lag/s/80-4-53366",
-            "published": "2026-11-02T15:48:04.000Z"
+            "source": "adressa",
+            "sourceName": "Adresseavisen",
+            "title": "Northug-festival konkurs",
+            "url": "https://www.adressa.no/mn24/i/Kro2PE/petter-northugs-janteloppet-er-konkurs",
+            "published": "2026-11-03T11:34:44.000Z"
+          },
+          {
+            "source": "dagbladet",
+            "sourceName": "Dagbladet",
+            "title": "Konkurs",
+            "url": "https://www.dagbladet.no/sport/janteloppet-konkurs/85373510",
+            "published": "2026-11-03T11:19:15.000Z"
           }
         ]
       },
       {
-        "id": "s9",
-        "headline": "Stjerne klapset til Ødegaard: – Et forsøk på å få noen utvist",
+        "id": "s188",
+        "headline": "Glimt-ungguttene sjokkerte et ubeseiret Lille: – Vi ser at alt er mulig",
+        "headlineSource": "an",
+        "sourceCount": 2,
+        "score": 1.58,
+        "updated": "2026-11-03T13:03:12.000Z",
+        "tags": [
+          "sport",
+          "nordland"
+        ],
+        "articles": [
+          {
+            "source": "nrk-nordland",
+            "sourceName": "NRK Nordland",
+            "title": "Første seier for Glimt-juniorene i Europa",
+            "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380#1.18072376.1.18072376",
+            "published": "2026-11-03T13:03:12.000Z"
+          },
+          {
+            "source": "an",
+            "sourceName": "Avisa Nordland",
+            "title": "Glimt-ungguttene sjokkerte et ubeseiret Lille: – Vi ser at alt er mulig",
+            "url": "https://www.an.no/glimt-ungguttene-slo-tilbake-mot-ubeseiret-fransk-motstand/s/80-4-54134",
+            "published": "2026-11-03T11:53:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s213",
+        "headline": "Anne Lise er et av få unntak – fotballtopp blir flau av tallene",
         "headlineSource": "nrk",
         "sourceCount": 1,
-        "score": 0.7,
-        "updated": "2026-11-01T18:26:13.000Z",
+        "score": 1.1,
+        "updated": "2026-11-03T11:32:42.000Z",
         "tags": [
           "sport"
         ],
@@ -1559,242 +1612,295 @@
           {
             "source": "nrk",
             "sourceName": "NRK",
-            "title": "Stjerne klapset til Ødegaard: – Et forsøk på å få noen utvist",
-            "url": "https://www.nrk.no/sport/flere-kontroverser-i-storkampen-mellom-liverpool-og-arsenal-1.18070721",
-            "published": "2026-11-01T18:26:13.000Z"
+            "title": "Anne Lise er et av få unntak – fotballtopp blir flau av tallene",
+            "url": "https://www.nrk.no/sport/anne-lise-olsen-i-bryne-er-et-av-fa-unntak-_-fotballtopp-marianne-solheim-blir-flau-av-tallene-1.18065796",
+            "published": "2026-11-03T11:32:42.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s198",
+        "headline": "Viking-treneren om Glimt-bråket: – Har ikke forstyrret oss",
+        "headlineSource": "nrk",
+        "sourceCount": 1,
+        "score": 1.08,
+        "updated": "2026-11-03T10:43:50.000Z",
+        "tags": [
+          "sport",
+          "nordland"
+        ],
+        "articles": [
+          {
+            "source": "nrk",
+            "sourceName": "NRK",
+            "title": "Viking-treneren om Glimt-bråket: – Har ikke forstyrret oss",
+            "url": "https://www.nrk.no/rogaland/viking-moter-pressen-for-mesterliga-kampen-mot-sabah-fk-1.18069079",
+            "published": "2026-11-03T10:43:50.000Z"
           }
         ]
       }
     ],
     "teknologi": [
       {
-        "id": "s119",
-        "headline": "Ingen hastebehandling i Stortinget av datasenterforslag",
-        "headlineSource": "aftenposten",
+        "id": "s55",
+        "headline": "Apples nye toppsjef: – Vår mest ambisiøse produktportefølje noensinne",
+        "headlineSource": "dn",
         "sourceCount": 2,
-        "score": 1.73,
-        "updated": "2026-11-02T12:51:51.000Z",
+        "score": 1.23,
+        "updated": "2026-11-02T21:32:15.000Z",
         "tags": [
-          "politikk",
           "teknologi"
         ],
         "articles": [
           {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Ingen hastebehandling i Stortinget av datasenterforslag",
-            "url": "https://www.aftenposten.no/norge/politikk/i/8Ggyqr/ingen-hastebehandling-i-stortinget-av-datasenterforslag?utm_medium=rss",
-            "published": "2026-11-02T12:31:42.000Z"
-          },
-          {
-            "source": "dagsavisen",
-            "sourceName": "Dagsavisen",
-            "title": "Frp ber regjeringen om raskere datasenterregulering",
-            "url": "https://www.dagsavisen.no/nyheter/frp-ber-regjeringen-om-raskere-datasenterregulering/10611753",
-            "published": "2026-11-02T09:35:18.000Z"
-          },
-          {
-            "source": "adressa",
-            "sourceName": "Adresseavisen",
-            "title": "Ingen hastebehandling i Stortinget av datasenterforslag",
-            "url": "https://www.adressa.no/nyheter/innenriks/i/64b78Q/frp-ber-regjeringen-om-hurtig-behandling-av-datasentre",
-            "published": "2026-11-02T08:41:41.000Z",
-            "sameAs": "Aftenposten"
-          },
-          {
-            "source": "nationen",
-            "sourceName": "Nationen",
-            "title": "Ingen hastebehandling i Stortinget av datasenterforslag",
-            "url": "https://www.nationen.no/ingen-hastebehandling-i-stortinget-av-datasenterforslag/s/80-148-62657",
-            "published": "2026-11-02T12:51:51.000Z",
-            "sameAs": "Aftenposten"
-          }
-        ]
-      },
-      {
-        "id": "s131",
-        "headline": "MDG etterlyser tiltak etter svensk fryserkrise: – Vi kan ikke være naive",
-        "headlineSource": "aftenposten",
-        "sourceCount": 2,
-        "score": 1.67,
-        "updated": "2026-11-02T13:20:26.000Z",
-        "tags": [
-          "politikk",
-          "teknologi",
-          "beredskap"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "MDG etterlyser tiltak etter svensk fryserkrise: – Vi kan ikke være naive",
-            "url": "https://www.aftenposten.no/norge/politikk/i/jv4GLb/mdg-etterlyser-tiltak-etter-svensk-fryserkrise-vi-kan-ikke-vaere-naive?utm_medium=rss",
-            "published": "2026-11-02T13:20:26.000Z"
-          },
-          {
-            "source": "nationen",
-            "sourceName": "Nationen",
-            "title": "Fryserangrep sprer seg i Europa – MDG frykter sabotasje og krever svar fra regjeringen",
-            "url": "https://www.nationen.no/svenske-matvarebutikker-fikk-trobbel-med-kjoleanleggene-frykter-hacking/s/80-148-62372",
-            "published": "2026-11-02T09:33:48.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s136",
-        "headline": "Kjøletrøbbel hos matbutikker i Sverige, Belgia og Luxembourg",
-        "headlineSource": "bt",
-        "sourceCount": 2,
-        "score": 1.59,
-        "updated": "2026-11-02T09:52:35.000Z",
-        "tags": [
-          "utenriks",
-          "teknologi"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Svenske matvarebutikker fikk trøbbel med kjøleanleggene: – Cybersabotasje eller hybrid krigføring",
-            "url": "https://www.aftenposten.no/verden/i/1oE9qK/svenske-matvarebutikker-fikk-troebbel-med-kjoeleanleggene-frykter-hacking?utm_medium=rss",
-            "published": "2026-11-02T09:38:40.000Z"
-          },
-          {
-            "source": "bt",
-            "sourceName": "BT",
-            "title": "Kjøletrøbbel hos matbutikker i Sverige, Belgia og Luxembourg",
-            "url": "https://www.bt.no/innenriks/i/qy0gVL/svenske-matvarebutikker-fikk-troebbel-med-kjoeleanleggene-frykter-hacking?utm_medium=rss",
-            "published": "2026-11-02T09:52:35.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s249",
-        "headline": "Rødt-forslag om datasenterstans: Får trolig ikke flertall",
-        "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 1.05,
-        "updated": "2026-11-02T15:43:44.000Z",
-        "tags": [
-          "politikk",
-          "teknologi"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Rødt-forslag om datasenterstans: Får trolig ikke flertall",
-            "url": "https://e24.no/i/Jrzzn8?utm_medium=rss",
-            "published": "2026-11-02T15:43:44.000Z"
-          },
-          {
-            "source": "vg",
-            "sourceName": "VG",
-            "title": "Rødt-forslag om datasenterstans: Får trolig ikke flertall",
-            "url": "https://www.vg.no/i/vlMvQm/roedt-forslag-om-datasenterstans-faar-trolig-ikke-flertall",
-            "published": "2026-11-02T15:43:41.000Z",
-            "sameAs": "Aftenposten"
+            "source": "dn",
+            "sourceName": "DN",
+            "title": "Apples nye toppsjef: – Vår mest ambisiøse produktportefølje noensinne",
+            "url": "https://www.dn.no/marked/apples-nye-toppsjef-var-mest-ambisiose-produktportefolje-noensinne/2-1-2067887",
+            "published": "2026-11-02T21:32:15.000Z"
           },
           {
             "source": "e24",
             "sourceName": "E24",
-            "title": "Rødt-forslag om datasenterstans: Får trolig ikke flertall",
-            "url": "https://e24.no/energi-og-klima/i/Jrzzn8/roedt-forslag-om-datasenterstans-faar-trolig-ikke-flertall?utm_medium=rss",
-            "published": "2026-11-02T15:43:39.000Z",
-            "sameAs": "Aftenposten"
+            "title": "Apple slår forventningene",
+            "url": "https://e24.no/boers-og-finans/i/JrzPQ4/apple-slaar-forventningene?utm_medium=rss",
+            "published": "2026-11-02T21:30:59.000Z"
           }
         ]
       },
       {
-        "id": "s138",
-        "headline": "Tenketank: Russland tapte terreng i Ukraina i oktober",
+        "id": "s248",
+        "headline": "NHO med sju forslag til datasenterregulering",
         "headlineSource": "aftenposten",
         "sourceCount": 1,
+        "score": 1.03,
+        "updated": "2026-11-03T13:14:30.000Z",
+        "tags": [
+          "arbeidsliv",
+          "teknologi"
+        ],
+        "articles": [
+          {
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "NHO med sju forslag til datasenterregulering",
+            "url": "https://www.aftenposten.no/norge/politikk/i/Kro9Xo/nho-med-sju-forslag-til-datasenterregulering?utm_medium=rss",
+            "published": "2026-11-03T13:14:30.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s272",
+        "headline": "USA-børsene stiger forsiktig på valgdagen",
+        "headlineSource": "dn",
+        "sourceCount": 1,
         "score": 0.97,
-        "updated": "2026-11-02T13:22:13.000Z",
+        "updated": "2026-11-03T14:31:39.000Z",
+        "tags": [
+          "okonomi",
+          "utenriks",
+          "teknologi"
+        ],
+        "articles": [
+          {
+            "source": "dn",
+            "sourceName": "DN",
+            "title": "USA-børsene stiger forsiktig på valgdagen",
+            "url": "https://www.dn.no/bors/usa-borsene-stiger-forsiktig-pa-valgdagen/2-1-2068502",
+            "published": "2026-11-03T14:31:39.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s242",
+        "headline": "– Nærliggende å tenke på Russland",
+        "headlineSource": "tv2",
+        "sourceCount": 1,
+        "score": 0.92,
+        "updated": "2026-11-03T12:55:07.000Z",
         "tags": [
           "utenriks",
           "teknologi"
         ],
         "articles": [
           {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Tenketank: Russland tapte terreng i Ukraina i oktober",
-            "url": "https://www.aftenposten.no/verden/i/ylWPBr/tenketank-russland-tapte-terreng-i-ukraina-i-oktober?utm_medium=rss",
-            "published": "2026-11-02T13:22:13.000Z"
+            "source": "tv2",
+            "sourceName": "TV 2",
+            "title": "– Nærliggende å tenke på Russland",
+            "url": "https://www.tv2.no/a/19388513",
+            "published": "2026-11-03T12:55:07.000Z"
           }
         ]
       },
       {
-        "id": "s167",
-        "headline": "Dataangrepet på UiT pågår fortsatt",
-        "headlineSource": "aftenposten",
+        "id": "s216",
+        "headline": "Her er aksjene som tåler en trøkk",
+        "headlineSource": "dn",
         "sourceCount": 1,
-        "score": 0.9,
-        "updated": "2026-11-02T10:59:37.000Z",
+        "score": 0.88,
+        "updated": "2026-11-03T11:34:22.000Z",
+        "tags": [
+          "okonomi",
+          "teknologi"
+        ],
+        "articles": [
+          {
+            "source": "dn",
+            "sourceName": "DN",
+            "title": "Her er aksjene som tåler en trøkk",
+            "url": "https://www.dn.no/marked/dn-investor/robert-nass/fond/her-er-aksjene-som-taler-en-trokk/2-1-2064200",
+            "published": "2026-11-03T11:34:22.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s241",
+        "headline": "Nå tar de mobilgrep når de er på kafé",
+        "headlineSource": "bt",
+        "sourceCount": 1,
+        "score": 0.83,
+        "updated": "2026-11-03T12:53:53.000Z",
         "tags": [
           "teknologi"
         ],
         "articles": [
           {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Dataangrepet på UiT pågår fortsatt",
-            "url": "https://www.aftenposten.no/norge/i/Kr0x3X/dataangrepet-paa-uit-paagaar-fortsatt?utm_medium=rss",
-            "published": "2026-11-02T10:59:37.000Z"
+            "source": "bt",
+            "sourceName": "BT",
+            "title": "Nå tar de mobilgrep når de er på kafé",
+            "url": "https://www.bt.no/byliv/i/9k7Xzp/naa-tar-de-unge-mobilgrep-naar-de-er-paa-kafe?utm_medium=rss",
+            "published": "2026-11-03T12:53:53.000Z"
           }
         ]
       }
     ],
     "kultur": [
       {
-        "id": "s277",
-        "headline": "Øvrebø ut i bok – Røkke slår tilbake: – Ukultur",
+        "id": "s148",
+        "headline": "Alvorlig elsparkesykkel-ulykke: Mann fløyet til sykehus",
         "headlineSource": "nrk",
-        "sourceCount": 1,
-        "score": 1.25,
-        "updated": "2026-11-02T17:08:05.000Z",
+        "sourceCount": 2,
+        "score": 1.89,
+        "updated": "2026-11-03T08:23:30.000Z",
         "tags": [
+          "helse",
           "kultur"
         ],
         "articles": [
           {
             "source": "nrk",
             "sourceName": "NRK",
-            "title": "Øvrebø ut i bok – Røkke slår tilbake: – Ukultur",
-            "url": "https://www.nrk.no/sport/tore-ovrebo-ut-mot-rokke-i-ny-bok-1.18069733",
-            "published": "2026-11-02T17:08:05.000Z"
+            "title": "Alvorlig elsparkesykkel-ulykke: Mann fløyet til sykehus",
+            "url": "https://www.nrk.no/ostfold/floyet-til-sykehuset-etter-sparkesykkelulykke-1.18071970",
+            "published": "2026-11-03T08:23:30.000Z"
+          },
+          {
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "Ulykke med sparkesykkel i Moss: – Framstår alvorlig",
+            "url": "https://www.aftenposten.no/norge/i/L32mKp/ulykke-med-sparkesykkel-i-moss-framstaar-alvorlig?utm_medium=rss",
+            "published": "2026-11-03T08:20:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s208",
+        "headline": "Northug-festival konkurs",
+        "headlineSource": "adressa",
+        "sourceCount": 2,
+        "score": 1.59,
+        "updated": "2026-11-03T11:34:44.000Z",
+        "tags": [
+          "okonomi",
+          "kultur",
+          "sport"
+        ],
+        "articles": [
+          {
+            "source": "adressa",
+            "sourceName": "Adresseavisen",
+            "title": "Northug-festival konkurs",
+            "url": "https://www.adressa.no/mn24/i/Kro2PE/petter-northugs-janteloppet-er-konkurs",
+            "published": "2026-11-03T11:34:44.000Z"
+          },
+          {
+            "source": "dagbladet",
+            "sourceName": "Dagbladet",
+            "title": "Konkurs",
+            "url": "https://www.dagbladet.no/sport/janteloppet-konkurs/85373510",
+            "published": "2026-11-03T11:19:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s281",
+        "headline": "Endrer Grunnloven: Nye regler for kongehuset",
+        "headlineSource": "nettavisen",
+        "sourceCount": 1,
+        "score": 0.88,
+        "updated": "2026-11-03T14:44:23.000Z",
+        "tags": [
+          "kultur",
+          "politikk"
+        ],
+        "articles": [
+          {
+            "source": "nettavisen",
+            "sourceName": "Nettavisen",
+            "title": "Endrer Grunnloven: Nye regler for kongehuset",
+            "url": "https://www.nettavisen.no/nyheter/endrer-grunnloven-nye-regler-for-kongehuset/s/80-95-216422",
+            "published": "2026-11-03T14:44:23.000Z"
           }
         ]
       },
       {
         "id": "s215",
-        "headline": "Plakaten ble for sterk kost i sør: Isabel fikk beskjed om å gjemme baken",
+        "headline": "Disse forfatterne kan vinne Brageprisen",
+        "headlineSource": "bt",
+        "sourceCount": 1,
+        "score": 0.8,
+        "updated": "2026-11-03T11:33:49.000Z",
+        "tags": [
+          "kultur"
+        ],
+        "articles": [
+          {
+            "source": "bt",
+            "sourceName": "BT",
+            "title": "Disse forfatterne kan vinne Brageprisen",
+            "url": "https://www.bt.no/innenriks/i/kvlLwa/disse-forfatterne-kan-vinne-brageprisen?utm_medium=rss",
+            "published": "2026-11-03T11:33:49.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s50",
+        "headline": "Full jubel: FK Haugesund klare for Eliteserien",
         "headlineSource": "nrk",
         "sourceCount": 1,
-        "score": 1.12,
-        "updated": "2026-11-02T13:53:11.000Z",
+        "score": 0.76,
+        "updated": "2026-11-02T20:52:20.000Z",
         "tags": [
+          "sport",
           "kultur"
         ],
         "articles": [
           {
             "source": "nrk",
             "sourceName": "NRK",
-            "title": "Plakaten ble for sterk kost i sør: Isabel fikk beskjed om å gjemme baken",
-            "url": "https://www.nrk.no/tromsogfinnmark/plakaten-til-isabel-odegard-skolmen-ble-for-sterk-kost-i-sor-1.18067677",
-            "published": "2026-11-02T13:53:11.000Z"
+            "title": "Full jubel: FK Haugesund klare for Eliteserien",
+            "url": "https://www.nrk.no/rogaland/full-jubel_-fk-haugesund-klare-for-eliteserien-1.18071730",
+            "published": "2026-11-02T20:52:20.000Z"
           }
         ]
       },
       {
-        "id": "s223",
-        "headline": "Statister ved livets slutt",
+        "id": "s163",
+        "headline": "Varsler storkonsert til sommeren",
         "headlineSource": "dagsavisen",
         "sourceCount": 1,
-        "score": 0.82,
-        "updated": "2026-11-02T14:16:54.000Z",
+        "score": 0.74,
+        "updated": "2026-11-03T09:00:21.000Z",
         "tags": [
           "kultur"
         ],
@@ -1802,134 +1908,21 @@
           {
             "source": "dagsavisen",
             "sourceName": "Dagsavisen",
-            "title": "Statister ved livets slutt",
-            "url": "https://www.dagsavisen.no/kultur/statister-ved-livets-slutt/10612107",
-            "published": "2026-11-02T14:16:54.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s93",
-        "headline": "AI kan frigjøre nær 100.000 årsverk",
-        "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 0.81,
-        "updated": "2026-11-02T07:00:06.000Z",
-        "tags": [
-          "okonomi",
-          "teknologi",
-          "kultur"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "AI kan frigjøre nær 100.000 årsverk",
-            "url": "https://e24.no/i/lKPAnA?utm_medium=rss",
-            "published": "2026-11-02T07:00:06.000Z"
-          },
-          {
-            "source": "e24",
-            "sourceName": "E24",
-            "title": "AI kan frigjøre nær 100.000 årsverk",
-            "url": "https://e24.no/norsk-oekonomi/i/lKPAnA/ai-kan-frigjoere-naer-100-000-aarsverk?utm_medium=rss",
-            "published": "2026-11-02T07:00:01.000Z",
-            "sameAs": "Aftenposten"
-          }
-        ]
-      },
-      {
-        "id": "s194",
-        "headline": "Det forbanna 90-tallet på festival",
-        "headlineSource": "dagsavisen",
-        "sourceCount": 1,
-        "score": 0.77,
-        "updated": "2026-11-02T12:26:53.000Z",
-        "tags": [
-          "kultur",
-          "okonomi",
-          "krim"
-        ],
-        "articles": [
-          {
-            "source": "dagsavisen",
-            "sourceName": "Dagsavisen",
-            "title": "Det forbanna 90-tallet på festival",
-            "url": "https://www.dagsavisen.no/kultur/det-forbanna-90-tallet-pa-festival/10612029",
-            "published": "2026-11-02T12:26:53.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s147",
-        "headline": "Det virker som de vil riste av seg 130 år med høytidelig framføring",
-        "headlineSource": "dagsavisen",
-        "sourceCount": 1,
-        "score": 0.72,
-        "updated": "2026-11-02T09:58:49.000Z",
-        "tags": [
-          "kultur"
-        ],
-        "articles": [
-          {
-            "source": "dagsavisen",
-            "sourceName": "Dagsavisen",
-            "title": "Det virker som de vil riste av seg 130 år med høytidelig framføring",
-            "url": "https://www.dagsavisen.no/kultur/la-bohme-for-en-ny-generasjon/10611511",
-            "published": "2026-11-02T09:58:49.000Z"
+            "title": "Varsler storkonsert til sommeren",
+            "url": "https://www.dagsavisen.no/kultur/uld-inntar-karpedammen/10612163",
+            "published": "2026-11-03T09:00:21.000Z"
           }
         ]
       }
     ],
     "samferdsel": [
       {
-        "id": "s59",
-        "headline": "Minst 12 utlendinger døde i togulykken i Spania",
-        "headlineSource": "nrk",
-        "sourceCount": 1,
-        "score": 0.85,
-        "updated": "2026-11-02T03:49:26.000Z",
-        "tags": [
-          "samferdsel",
-          "utenriks"
-        ],
-        "articles": [
-          {
-            "source": "nrk",
-            "sourceName": "NRK",
-            "title": "Minst 12 utlendinger døde i togulykken i Spania",
-            "url": "https://www.nrk.no/nyheter/minst-12-utlendinger-dode-i-togulykken-i-spania-1.18070859",
-            "published": "2026-11-02T03:49:26.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s247",
-        "headline": "Ryanair med ny endring",
-        "headlineSource": "nettavisen",
-        "sourceCount": 1,
-        "score": 0.85,
-        "updated": "2026-11-02T15:37:33.000Z",
-        "tags": [
-          "samferdsel"
-        ],
-        "articles": [
-          {
-            "source": "nettavisen",
-            "sourceName": "Nettavisen",
-            "title": "Ryanair med ny endring",
-            "url": "https://www.nettavisen.no/nyheter/ny-endring-i-ryanair/s/80-95-211814",
-            "published": "2026-11-02T15:37:33.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s112",
-        "headline": "Signalfeil ved Skøyen stasjon – forsinkelser i togtrafikken",
+        "id": "s134",
+        "headline": "Kollisjon på E18 ved Sandvika skapte mer kø i morgenrushet",
         "headlineSource": "aftenposten",
         "sourceCount": 1,
-        "score": 0.83,
-        "updated": "2026-11-02T08:10:25.000Z",
+        "score": 0.86,
+        "updated": "2026-11-03T07:25:46.000Z",
         "tags": [
           "samferdsel"
         ],
@@ -1937,281 +1930,277 @@
           {
             "source": "aftenposten",
             "sourceName": "Aftenposten",
-            "title": "Signalfeil ved Skøyen stasjon – forsinkelser i togtrafikken",
-            "url": "https://www.aftenposten.no/norge/i/lKG0XL/signalfeil-ved-skoeyen-stasjon-forsinkelser-i-togtrafikken?utm_medium=rss",
-            "published": "2026-11-02T08:10:25.000Z"
+            "title": "Kollisjon på E18 ved Sandvika skapte mer kø i morgenrushet",
+            "url": "https://www.aftenposten.no/norge/i/KroaW4/kollisjon-paa-e18-ved-sandvika-skapte-mer-koe-i-morgenrushet?utm_medium=rss",
+            "published": "2026-11-03T07:25:46.000Z"
           }
         ]
       },
       {
-        "id": "s233",
-        "headline": "Tunnel på E6 var stengt",
-        "headlineSource": "adressa",
+        "id": "s231",
+        "headline": "De kjøpte tomten i 2023. Nå står Statsforvalteren i veien for drømmeboligen.",
+        "headlineSource": "bt",
         "sourceCount": 1,
-        "score": 0.83,
-        "updated": "2026-11-02T14:41:23.000Z",
+        "score": 0.82,
+        "updated": "2026-11-03T12:30:10.000Z",
         "tags": [
           "samferdsel"
         ],
         "articles": [
           {
-            "source": "adressa",
-            "sourceName": "Adresseavisen",
-            "title": "Tunnel på E6 var stengt",
-            "url": "https://www.adressa.no/nyhetsstudio/i/oK54v7/tunnel-paa-e6-stengt",
-            "published": "2026-11-02T14:41:23.000Z"
+            "source": "bt",
+            "sourceName": "BT",
+            "title": "De kjøpte tomten i 2023. Nå står Statsforvalteren i veien for drømmeboligen.",
+            "url": "https://www.bt.no/hendelser/i/n9EGKx/espen-og-janicke-kan-faa-boligdroemmen-knust-av-byraakratiet?utm_medium=rss",
+            "published": "2026-11-03T12:30:10.000Z"
           }
         ]
       },
       {
-        "id": "s220",
-        "headline": "Lastebil stanset på E6",
-        "headlineSource": "adressa",
-        "sourceCount": 1,
-        "score": 0.81,
-        "updated": "2026-11-02T14:10:36.000Z",
-        "tags": [
-          "samferdsel"
-        ],
-        "articles": [
-          {
-            "source": "adressa",
-            "sourceName": "Adresseavisen",
-            "title": "Lastebil stanset på E6",
-            "url": "https://www.adressa.no/nyhetsstudio/i/kv7lp6/stanset-paa-e6",
-            "published": "2026-11-02T14:10:36.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s153",
-        "headline": "Får nye anbefalinger: – Dekningen er ikke god nok",
-        "headlineSource": "tv2",
+        "id": "s105",
+        "headline": "Mann kritisk skadet i trafikkulykke i Larvik",
+        "headlineSource": "aftenposten",
         "sourceCount": 1,
         "score": 0.8,
-        "updated": "2026-11-02T10:06:38.000Z",
+        "updated": "2026-11-03T04:45:31.000Z",
         "tags": [
           "samferdsel"
         ],
         "articles": [
           {
-            "source": "tv2",
-            "sourceName": "TV 2",
-            "title": "Får nye anbefalinger: – Dekningen er ikke god nok",
-            "url": "https://www.tv2.no/a/19372977",
-            "published": "2026-11-02T10:06:38.000Z"
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "Mann kritisk skadet i trafikkulykke i Larvik",
+            "url": "https://www.aftenposten.no/norge/i/BMgbmg/mann-kritisk-skadet-i-trafikkulykke-i-larvik?utm_medium=rss",
+            "published": "2026-11-03T04:45:31.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s204",
+        "headline": "Butikken åpner dørene i nye lokaler",
+        "headlineSource": "adressa",
+        "sourceCount": 1,
+        "score": 0.78,
+        "updated": "2026-11-03T11:06:36.000Z",
+        "tags": [
+          "samferdsel"
+        ],
+        "articles": [
+          {
+            "source": "adressa",
+            "sourceName": "Adresseavisen",
+            "title": "Butikken åpner dørene i nye lokaler",
+            "url": "https://www.adressa.no/okonomi/i/9k96A9/ingrid-fant-en-ny-plass-aa-ramme-inn-livsverket",
+            "published": "2026-11-03T11:06:36.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s265",
+        "headline": "Taxfree-ansatte sikret jobb: – Utrolig glad",
+        "headlineSource": "frifagbevegelse",
+        "sourceCount": 1,
+        "score": 0.77,
+        "updated": "2026-11-03T14:02:41.000Z",
+        "tags": [
+          "arbeidsliv",
+          "samferdsel"
+        ],
+        "articles": [
+          {
+            "source": "frifagbevegelse",
+            "sourceName": "FriFagbevegelse",
+            "title": "Taxfree-ansatte sikret jobb: – Utrolig glad",
+            "url": "https://www.frifagbevegelse.no/hknytt/taxfree-ansatte-sikret-jobb-utrolig-glad/2730450",
+            "published": "2026-11-03T14:02:41.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s128",
+        "headline": "Trafikktrøbbel flere steder i Trondheim",
+        "headlineSource": "adressa",
+        "sourceCount": 1,
+        "score": 0.69,
+        "updated": "2026-11-03T06:44:32.000Z",
+        "tags": [
+          "samferdsel"
+        ],
+        "articles": [
+          {
+            "source": "adressa",
+            "sourceName": "Adresseavisen",
+            "title": "Trafikktrøbbel flere steder i Trondheim",
+            "url": "https://www.adressa.no/nyheter/trondheim/i/p139dR/ekstra-koe-i-morgenrushet",
+            "published": "2026-11-03T06:44:32.000Z"
           }
         ]
       }
     ],
     "beredskap": [
       {
-        "id": "s131",
-        "headline": "MDG etterlyser tiltak etter svensk fryserkrise: – Vi kan ikke være naive",
+        "id": "s286",
+        "headline": "FN avslutter sitt fredsbevarende oppdrag i Vest-Sahara",
         "headlineSource": "aftenposten",
-        "sourceCount": 2,
-        "score": 1.67,
-        "updated": "2026-11-02T13:20:26.000Z",
+        "sourceCount": 1,
+        "score": 1.08,
+        "updated": "2026-11-03T14:51:28.000Z",
         "tags": [
-          "politikk",
-          "teknologi",
+          "utenriks",
           "beredskap"
         ],
         "articles": [
           {
             "source": "aftenposten",
             "sourceName": "Aftenposten",
-            "title": "MDG etterlyser tiltak etter svensk fryserkrise: – Vi kan ikke være naive",
-            "url": "https://www.aftenposten.no/norge/politikk/i/jv4GLb/mdg-etterlyser-tiltak-etter-svensk-fryserkrise-vi-kan-ikke-vaere-naive?utm_medium=rss",
-            "published": "2026-11-02T13:20:26.000Z"
-          },
-          {
-            "source": "nationen",
-            "sourceName": "Nationen",
-            "title": "Fryserangrep sprer seg i Europa – MDG frykter sabotasje og krever svar fra regjeringen",
-            "url": "https://www.nationen.no/svenske-matvarebutikker-fikk-trobbel-med-kjoleanleggene-frykter-hacking/s/80-148-62372",
-            "published": "2026-11-02T09:33:48.000Z"
+            "title": "FN avslutter sitt fredsbevarende oppdrag i Vest-Sahara",
+            "url": "https://www.aftenposten.no/verden/i/El6eOa/fn-avslutter-sitt-fredsbevarende-oppdrag-i-vest-sahara?utm_medium=rss",
+            "published": "2026-11-03T14:51:28.000Z"
           }
         ]
       },
       {
-        "id": "s234",
-        "headline": "Ny sikkerhetsavdeling åpnet for Norges mest voldelige psykiatriske pasienter",
-        "headlineSource": "aftenposten",
+        "id": "s110",
+        "headline": "Kan Ukraina klare seg uten SpaceX?",
+        "headlineSource": "dagsavisen",
         "sourceCount": 1,
-        "score": 1.01,
-        "updated": "2026-11-02T14:42:20.000Z",
+        "score": 0.66,
+        "updated": "2026-11-03T05:00:00.000Z",
         "tags": [
-          "helse",
-          "beredskap",
-          "krim"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "Ny sikkerhetsavdeling åpnet for Norges mest voldelige psykiatriske pasienter",
-            "url": "https://www.aftenposten.no/norge/i/BMOokE/ny-sikkerhetsavdeling-aapnet-for-norges-mest-voldelige-psykiatriske-pasienter?utm_medium=rss",
-            "published": "2026-11-02T14:42:20.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s160",
-        "headline": "PST skal få nye verktøy mot spionasje – lovforslag ut på høring",
-        "headlineSource": "aftenposten",
-        "sourceCount": 1,
-        "score": 0.89,
-        "updated": "2026-11-02T10:44:57.000Z",
-        "tags": [
-          "beredskap",
-          "politikk",
-          "krim"
-        ],
-        "articles": [
-          {
-            "source": "aftenposten",
-            "sourceName": "Aftenposten",
-            "title": "PST skal få nye verktøy mot spionasje – lovforslag ut på høring",
-            "url": "https://www.aftenposten.no/norge/i/64bJve/pst-skal-faa-nye-verktoey-mot-spionasje-lovforslag-ut-paa-hoering?utm_medium=rss",
-            "published": "2026-11-02T10:44:57.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s132",
-        "headline": "Redningsaksjon mislyktes: Nasa-teleskop styrter mot jorden",
-        "headlineSource": "tv2",
-        "sourceCount": 1,
-        "score": 0.79,
-        "updated": "2026-11-02T09:33:52.000Z",
-        "tags": [
+          "utenriks",
           "beredskap"
         ],
         "articles": [
           {
-            "source": "tv2",
-            "sourceName": "TV 2",
-            "title": "Redningsaksjon mislyktes: Nasa-teleskop styrter mot jorden",
-            "url": "https://www.tv2.no/a/19383979",
-            "published": "2026-11-02T09:33:52.000Z"
+            "source": "dagsavisen",
+            "sourceName": "Dagsavisen",
+            "title": "Kan Ukraina klare seg uten SpaceX?",
+            "url": "https://www.dagsavisen.no/nyheter/kan-ukraina-klare-seg-uten-spacex/10612562",
+            "published": "2026-11-03T05:00:00.000Z"
           }
         ]
       },
       {
-        "id": "s71",
-        "headline": "Når internett blir sikkerhets- og utenrikspolitikk",
+        "id": "s101",
+        "headline": "Avlyste over dobbelt så mange tilsyn som statsråden hevdet",
+        "headlineSource": "bt",
+        "sourceCount": 1,
+        "score": 0.65,
+        "updated": "2026-11-03T04:15:05.000Z",
+        "tags": [
+          "politikk",
+          "beredskap"
+        ],
+        "articles": [
+          {
+            "source": "bt",
+            "sourceName": "BT",
+            "title": "Avlyste over dobbelt så mange tilsyn som statsråden hevdet",
+            "url": "https://www.bt.no/innenriks/i/Jrz527/innroemmet-massivt-regelbrudd?utm_medium=rss",
+            "published": "2026-11-03T04:15:05.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s52",
+        "headline": "Ekspert: – Ser lignende i Norge nærmest daglig",
         "headlineSource": "e24",
         "sourceCount": 1,
-        "score": 0.7,
-        "updated": "2026-11-02T05:02:19.000Z",
+        "score": 0.61,
+        "updated": "2026-11-02T21:00:25.000Z",
         "tags": [
-          "beredskap",
-          "krim"
+          "utenriks",
+          "beredskap"
         ],
         "articles": [
           {
             "source": "e24",
             "sourceName": "E24",
-            "title": "Når internett blir sikkerhets- og utenrikspolitikk",
-            "url": "https://e24.no/teknologi/i/Jr0ppP/er-norge-klare-for-aa-gjoere-seg-avhengig-av-elon-musk?utm_medium=rss",
-            "published": "2026-11-02T05:02:19.000Z"
+            "title": "Ekspert: – Ser lignende i Norge nærmest daglig",
+            "url": "https://e24.no/naeringsliv/i/31ylyv/kjoeleskap-hacket-i-svergie-sikkerhetsekspert-mener-norge-ikke-er-sikkeret-fra-slike-angrep?utm_medium=rss",
+            "published": "2026-11-02T21:00:25.000Z"
           }
         ]
       },
       {
-        "id": "s7",
-        "headline": "Null stjerner: Kinesisk bil slaktes",
-        "headlineSource": "dagbladet",
+        "id": "s57",
+        "headline": "Han har forsket på hermetikk – dette velger han selv til lageret",
+        "headlineSource": "adressa",
         "sourceCount": 1,
-        "score": 0.5,
-        "updated": "2026-11-01T18:20:28.000Z",
+        "score": 0.56,
+        "updated": "2026-11-02T22:00:18.000Z",
         "tags": [
           "beredskap"
         ],
         "articles": [
           {
-            "source": "dagbladet",
-            "sourceName": "Dagbladet",
-            "title": "Null stjerner: Kinesisk bil slaktes",
-            "url": "https://www.elbil24.no/nyheter/null-stjerner-i-krasjtest-kinesisk-bil-slaktes/85360127",
-            "published": "2026-11-01T18:20:28.000Z"
+            "source": "adressa",
+            "sourceName": "Adresseavisen",
+            "title": "Han har forsket på hermetikk – dette velger han selv til lageret",
+            "url": "https://www.adressa.no/nytte/i/Abom6z/han-har-forsket-paa-hermetikk-dette-velger-han-selv-til-lageret",
+            "published": "2026-11-02T22:00:18.000Z"
           }
         ]
       }
     ],
     "nordland": [
       {
-        "id": "s266",
-        "headline": "Bus og bil krasjet i Rana – én til sykehus",
-        "headlineSource": "nrk-nordland",
-        "sourceCount": 1,
-        "score": 0.88,
-        "updated": "2026-11-02T16:29:54.000Z",
+        "id": "s188",
+        "headline": "Glimt-ungguttene sjokkerte et ubeseiret Lille: – Vi ser at alt er mulig",
+        "headlineSource": "an",
+        "sourceCount": 2,
+        "score": 1.58,
+        "updated": "2026-11-03T13:03:12.000Z",
         "tags": [
-          "helse",
+          "sport",
           "nordland"
         ],
         "articles": [
           {
             "source": "nrk-nordland",
             "sourceName": "NRK Nordland",
-            "title": "Bus og bil krasjet i Rana – én til sykehus",
-            "url": "https://www.nrk.no/nordland/rana_-rykker-ut-til-ulykke-mellom-buss-og-bil-1.18071506",
-            "published": "2026-11-02T16:29:54.000Z"
+            "title": "Første seier for Glimt-juniorene i Europa",
+            "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380#1.18072376.1.18072376",
+            "published": "2026-11-03T13:03:12.000Z"
+          },
+          {
+            "source": "an",
+            "sourceName": "Avisa Nordland",
+            "title": "Glimt-ungguttene sjokkerte et ubeseiret Lille: – Vi ser at alt er mulig",
+            "url": "https://www.an.no/glimt-ungguttene-slo-tilbake-mot-ubeseiret-fransk-motstand/s/80-4-54134",
+            "published": "2026-11-03T11:53:21.000Z"
           }
         ]
       },
       {
-        "id": "s145",
-        "headline": "Lille-treneren med klar beskjed om Glimt: – Et fryktinngytende lag",
+        "id": "s291",
+        "headline": "– Alle i trenerteamet skal stille opp i caps",
         "headlineSource": "an",
         "sourceCount": 1,
-        "score": 0.76,
-        "updated": "2026-11-02T15:48:04.000Z",
+        "score": 0.79,
+        "updated": "2026-11-03T15:02:07.000Z",
         "tags": [
           "sport",
-          "nordland",
-          "okonomi"
-        ],
-        "articles": [
-          {
-            "source": "an",
-            "sourceName": "Avisa Nordland",
-            "title": "Lille-treneren med klar beskjed om Glimt: – Et fryktinngytende lag",
-            "url": "https://www.an.no/lille-treneren-med-klar-beskjed-om-glimt-et-fryktinngytende-lag/s/80-4-53366",
-            "published": "2026-11-02T15:48:04.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s250",
-        "headline": "Endrer utslippstillatelse på settefiskanlegg: – Vi er fornøyde",
-        "headlineSource": "an",
-        "sourceCount": 1,
-        "score": 0.76,
-        "updated": "2026-11-02T15:45:25.000Z",
-        "tags": [
-          "klima",
           "nordland"
         ],
         "articles": [
           {
             "source": "an",
             "sourceName": "Avisa Nordland",
-            "title": "Endrer utslippstillatelse på settefiskanlegg: – Vi er fornøyde",
-            "url": "https://www.an.no/endrer-utslippstillatelse-pa-settefiskanlegg-vi-er-fornoyde/s/80-4-48372",
-            "published": "2026-11-02T15:45:25.000Z"
+            "title": "– Alle i trenerteamet skal stille opp i caps",
+            "url": "https://www.an.no/alle-i-trenerteamet-skal-stille-opp-i-caps/s/80-4-54548",
+            "published": "2026-11-03T15:02:07.000Z"
           }
         ]
       },
       {
-        "id": "s243",
-        "headline": "Nordlending fikk drømmetelefon – vant 19 millioner",
+        "id": "s269",
+        "headline": "Onsdag blir skjebnedag for Svømmehallen: – Ganske avgjørende",
         "headlineSource": "an",
         "sourceCount": 1,
-        "score": 0.75,
-        "updated": "2026-11-02T15:22:21.000Z",
+        "score": 0.77,
+        "updated": "2026-11-03T14:21:02.000Z",
         "tags": [
           "nordland"
         ],
@@ -2219,19 +2208,137 @@
           {
             "source": "an",
             "sourceName": "Avisa Nordland",
-            "title": "Nordlending fikk drømmetelefon – vant 19 millioner",
-            "url": "https://www.an.no/nordlending-fikk-drommetelefon-vant-19-millioner/s/80-4-53354",
-            "published": "2026-11-02T15:22:21.000Z"
+            "title": "Onsdag blir skjebnedag for Svømmehallen: – Ganske avgjørende",
+            "url": "https://www.an.no/onsdag-blir-skjebnedag-for-svommehallen-ganske-avgjorende/s/80-4-54032",
+            "published": "2026-11-03T14:21:02.000Z"
           }
         ]
       },
       {
-        "id": "s226",
-        "headline": "Truffet av lynet – nå er flyvningen kansellert",
+        "id": "s247",
+        "headline": "Se seiersbildene",
         "headlineSource": "an",
         "sourceCount": 1,
-        "score": 0.73,
-        "updated": "2026-11-02T14:22:43.000Z",
+        "score": 0.74,
+        "updated": "2026-11-03T13:06:08.000Z",
+        "tags": [
+          "nordland"
+        ],
+        "articles": [
+          {
+            "source": "an",
+            "sourceName": "Avisa Nordland",
+            "title": "Se seiersbildene",
+            "url": "https://www.an.no/se-seiersbildene/g/80-4-54473",
+            "published": "2026-11-03T13:06:08.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s205",
+        "headline": "Traktor har veltet – det brenner fra motoren",
+        "headlineSource": "an",
+        "sourceCount": 1,
+        "score": 0.7,
+        "updated": "2026-11-03T11:07:25.000Z",
+        "tags": [
+          "krim",
+          "nordland"
+        ],
+        "articles": [
+          {
+            "source": "an",
+            "sourceName": "Avisa Nordland",
+            "title": "Traktor har veltet – det brenner fra motoren",
+            "url": "https://www.an.no/traktor-har-veltet-det-skal-brenne-fra-motoren/s/80-4-54044",
+            "published": "2026-11-03T11:07:25.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s198",
+        "headline": "Viking-treneren om Glimt-bråket: – Har ikke forstyrret oss",
+        "headlineSource": "nrk",
+        "sourceCount": 1,
+        "score": 1.08,
+        "updated": "2026-11-03T10:43:50.000Z",
+        "tags": [
+          "sport",
+          "nordland"
+        ],
+        "articles": [
+          {
+            "source": "nrk",
+            "sourceName": "NRK",
+            "title": "Viking-treneren om Glimt-bråket: – Har ikke forstyrret oss",
+            "url": "https://www.nrk.no/rogaland/viking-moter-pressen-for-mesterliga-kampen-mot-sabah-fk-1.18069079",
+            "published": "2026-11-03T10:43:50.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s169",
+        "headline": "Knallsterke hjemme, elendige i Europa: Nå venter Glimt",
+        "headlineSource": "an",
+        "sourceCount": 1,
+        "score": 0.67,
+        "updated": "2026-11-03T10:01:02.000Z",
+        "tags": [
+          "sport",
+          "nordland"
+        ],
+        "articles": [
+          {
+            "source": "an",
+            "sourceName": "Avisa Nordland",
+            "title": "Knallsterke hjemme, elendige i Europa: Nå venter Glimt",
+            "url": "https://www.an.no/knallsterke-hjemme-elendige-i-europa-na-venter-glimt/s/80-4-53915",
+            "published": "2026-11-03T10:01:02.000Z"
+          },
+          {
+            "source": "an",
+            "sourceName": "Avisa Nordland",
+            "title": "En olympisk aristokrat",
+            "url": "https://www.an.no/en-olympisk-aristokrat/o/80-4-48144",
+            "published": "2026-11-03T09:25:26.000Z",
+            "opinion": true
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "headline": "Rykket ut til brann i et kjøretøy",
+        "headlineSource": "nrk-nordland",
+        "sourceCount": 2,
+        "score": 1.36,
+        "updated": "2026-11-03T06:20:54.000Z",
+        "tags": [
+          "nordland"
+        ],
+        "articles": [
+          {
+            "source": "nrk-nordland",
+            "sourceName": "NRK Nordland",
+            "title": "Rykket ut til brann i et kjøretøy",
+            "url": "https://www.nrk.no/nordland/-rykker-ut-til-brann-i-et-kjoretoy-1.18071857",
+            "published": "2026-11-03T06:20:54.000Z"
+          },
+          {
+            "source": "adressa",
+            "sourceName": "Adresseavisen",
+            "title": "Rykket ut til brann ved Piren",
+            "url": "https://www.adressa.no/nyhetsstudio/i/8GgrbW/branntilloep-ved-piren",
+            "published": "2026-11-02T15:41:15.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s167",
+        "headline": "Frykter for E6-prosjektet: – Det er helt vilt",
+        "headlineSource": "an",
+        "sourceCount": 1,
+        "score": 0.66,
+        "updated": "2026-11-03T09:18:16.000Z",
         "tags": [
           "samferdsel",
           "nordland"
@@ -2240,212 +2347,123 @@
           {
             "source": "an",
             "sourceName": "Avisa Nordland",
-            "title": "Truffet av lynet – nå er flyvningen kansellert",
-            "url": "https://www.an.no/truffet-av-lynet-na-er-flyvningen-kansellert/s/80-4-53348",
-            "published": "2026-11-02T14:22:43.000Z"
+            "title": "Frykter for E6-prosjektet: – Det er helt vilt",
+            "url": "https://www.an.no/det-er-helt-vilt/s/80-4-53885",
+            "published": "2026-11-03T09:18:16.000Z"
           }
         ]
       },
       {
-        "id": "s190",
-        "headline": "Meteorologen med oppfordring før Glimt-kampen: – Kle deg godt",
+        "id": "s153",
+        "headline": "Nekter for overgrep - jenta (14) om eldre mann: - Han sa han var den onde skurken",
         "headlineSource": "an",
-        "sourceCount": 1,
-        "score": 0.68,
-        "updated": "2026-11-02T12:22:15.000Z",
-        "tags": [
-          "sport",
-          "nordland"
-        ],
-        "articles": [
-          {
-            "source": "an",
-            "sourceName": "Avisa Nordland",
-            "title": "Meteorologen med oppfordring før Glimt-kampen: – Kle deg godt",
-            "url": "https://www.an.no/meteorologen-med-oppfordring-for-glimt-kampen-kle-deg-godt/s/80-4-53141",
-            "published": "2026-11-02T12:22:15.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s182",
-        "headline": "Reagerer på helsereform: – Det er jeg ikke så sikker på",
-        "headlineSource": "nrk-nordland",
-        "sourceCount": 1,
-        "score": 0.76,
-        "updated": "2026-11-02T12:02:07.000Z",
-        "tags": [
-          "helse",
-          "nordland"
-        ],
-        "articles": [
-          {
-            "source": "nrk-nordland",
-            "sourceName": "NRK Nordland",
-            "title": "Reagerer på helsereform: – Det er jeg ikke så sikker på",
-            "url": "https://www.nrk.no/nordland/reagerer-pa-helsereformen_-_-det_er-jeg-ikke-sa-sikker-pa-1.18071216",
-            "published": "2026-11-02T12:02:07.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s165",
-        "headline": "Stjernen manglet - men så kom det gode nyheter",
-        "headlineSource": "an",
-        "sourceCount": 1,
-        "score": 0.66,
-        "updated": "2026-11-02T10:58:53.000Z",
-        "tags": [
-          "nordland"
-        ],
-        "articles": [
-          {
-            "source": "an",
-            "sourceName": "Avisa Nordland",
-            "title": "Stjernen manglet - men så kom det gode nyheter",
-            "url": "https://www.an.no/ikke-ferdig-stjernen-manglet/s/80-4-53066",
-            "published": "2026-11-02T10:58:53.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s164",
-        "headline": "Kutter årsverk: – Krevende",
-        "headlineSource": "an",
-        "sourceCount": 1,
-        "score": 0.66,
-        "updated": "2026-11-02T10:58:40.000Z",
-        "tags": [
-          "nordland"
-        ],
-        "articles": [
-          {
-            "source": "an",
-            "sourceName": "Avisa Nordland",
-            "title": "Kutter årsverk: – Krevende",
-            "url": "https://www.an.no/kutter-arsverk-krevende/s/80-4-53081",
-            "published": "2026-11-02T10:58:40.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s163",
-        "headline": "Kjemper for millionløft i Nordland",
-        "headlineSource": "nrk-nordland",
-        "sourceCount": 1,
-        "score": 0.74,
-        "updated": "2026-11-02T10:58:14.000Z",
-        "tags": [
-          "nordland"
-        ],
-        "articles": [
-          {
-            "source": "nrk-nordland",
-            "sourceName": "NRK Nordland",
-            "title": "Kjemper for millionløft i Nordland",
-            "url": "https://www.nrk.no/nordland/krever-samferdselsloft-i-nord--1.18070969",
-            "published": "2026-11-02T10:58:14.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s154",
-        "headline": "Foreslår nærhelsereform: – Bedre helsetilbud der folk bor",
-        "headlineSource": "nationen",
         "sourceCount": 1,
         "score": 0.65,
-        "updated": "2026-11-02T10:51:00.000Z",
+        "updated": "2026-11-03T08:34:44.000Z",
         "tags": [
-          "helse",
           "nordland"
         ],
         "articles": [
           {
             "source": "an",
             "sourceName": "Avisa Nordland",
-            "title": "Foreslår nærhelsereform: – Bedre helsetilbud der folk bor",
-            "url": "https://www.an.no/foreslar-narhelsereform-bedre-helsetilbud-der-folk-bor/s/80-4-53102",
-            "published": "2026-11-02T10:51:00.000Z"
-          },
-          {
-            "source": "nationen",
-            "sourceName": "Nationen",
-            "title": "Foreslår nærhelsereform: – Bedre helsetilbud der folk bor",
-            "url": "https://www.nationen.no/nyheter/helsereformutvalget-legger-frem-forslag-til-ny-helsereform/s/80-95-211838",
-            "published": "2026-11-02T10:10:01.000Z",
-            "sameAs": "Avisa Nordland"
+            "title": "Nekter for overgrep - jenta (14) om eldre mann: - Han sa han var den onde skurken",
+            "url": "https://www.an.no/nekter-for-overgrep-mot-jente-14/s/80-4-53015",
+            "published": "2026-11-03T08:34:44.000Z"
           }
         ]
       },
       {
-        "id": "s159",
-        "headline": "Ny helsereform: Mener de små kommunene må slås sammen",
-        "headlineSource": "nrk-nordland",
-        "sourceCount": 1,
-        "score": 0.73,
-        "updated": "2026-11-02T10:42:07.000Z",
-        "tags": [
-          "helse",
-          "nordland"
-        ],
-        "articles": [
-          {
-            "source": "nrk-nordland",
-            "sourceName": "NRK Nordland",
-            "title": "Ny helsereform: Mener de små kommunene må slås sammen",
-            "url": "https://www.nrk.no/artikkel/ny-helsereform-vil-gi-mer-behandling-der-folk-bor-1531108",
-            "published": "2026-11-02T10:42:07.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s104",
-        "headline": "Frigir navn etter vannscooterulykke",
-        "headlineSource": "nrk-nordland",
-        "sourceCount": 1,
-        "score": 0.68,
-        "updated": "2026-11-02T07:51:42.000Z",
-        "tags": [
-          "nordland"
-        ],
-        "articles": [
-          {
-            "source": "nrk-nordland",
-            "sourceName": "NRK Nordland",
-            "title": "Frigir navn etter vannscooterulykke",
-            "url": "https://www.nrk.no/nordland/frigir-navn-etter-vannscooterulykke--1.18070963",
-            "published": "2026-11-02T07:51:42.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s89",
-        "headline": "Kari døde på fjelltur – Høyesterett dropper å se på saken",
-        "headlineSource": "nrk-nordland",
-        "sourceCount": 1,
-        "score": 0.65,
-        "updated": "2026-11-02T06:40:01.000Z",
-        "tags": [
-          "krim",
-          "nordland"
-        ],
-        "articles": [
-          {
-            "source": "nrk-nordland",
-            "sourceName": "NRK Nordland",
-            "title": "Kari døde på fjelltur – Høyesterett dropper å se på saken",
-            "url": "https://www.nrk.no/nordland/tok-ulykken-pa-higravtindan-til-hoyesterett.-fikk-avslag-1.18069573",
-            "published": "2026-11-02T06:40:01.000Z"
-          }
-        ]
-      },
-      {
-        "id": "s81",
-        "headline": "Truet kvinne med airsoftvåpen: Må møte i retten",
-        "headlineSource": "nrk-nordland",
+        "id": "s152",
+        "headline": "Flere hundre bortesupportere fyller Aspmyra: – Veldig artig",
+        "headlineSource": "an",
         "sourceCount": 1,
         "score": 0.64,
-        "updated": "2026-11-02T05:59:42.000Z",
+        "updated": "2026-11-03T08:31:21.000Z",
+        "tags": [
+          "nordland"
+        ],
+        "articles": [
+          {
+            "source": "an",
+            "sourceName": "Avisa Nordland",
+            "title": "Flere hundre bortesupportere fyller Aspmyra: – Veldig artig",
+            "url": "https://www.an.no/flere-hundre-bortesupportere-fyller-aspmyra-hoyt-tall/s/80-4-53906",
+            "published": "2026-11-03T08:31:21.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s107",
+        "headline": "Lærer på Helgeland erkjente delvis skyld for seksuelle handlinger",
+        "headlineSource": "aftenposten",
+        "sourceCount": 1,
+        "score": 0.8,
+        "updated": "2026-11-03T04:59:34.000Z",
+        "tags": [
+          "nordland",
+          "krim"
+        ],
+        "articles": [
+          {
+            "source": "aftenposten",
+            "sourceName": "Aftenposten",
+            "title": "Lærer på Helgeland erkjente delvis skyld for seksuelle handlinger",
+            "url": "https://www.aftenposten.no/norge/i/vlawRl/laerer-paa-helgeland-erkjente-delvis-skyld-for-seksuelle-handlinger?utm_medium=rss",
+            "published": "2026-11-03T04:59:34.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s56",
+        "headline": "Vikarierer på Stortinget frem til jul",
+        "headlineSource": "nrk-nordland",
+        "sourceCount": 1,
+        "score": 0.56,
+        "updated": "2026-11-02T21:44:57.000Z",
+        "tags": [
+          "politikk",
+          "nordland"
+        ],
+        "articles": [
+          {
+            "source": "nrk-nordland",
+            "sourceName": "NRK Nordland",
+            "title": "Vikarierer på Stortinget frem til jul",
+            "url": "https://www.nrk.no/nordland/varaordforer-vikarierer-pa-stortinget-1.18071741",
+            "published": "2026-11-02T21:44:57.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s51",
+        "headline": "Vil tvinge Ap til hurtigbåtkutt: – Neste store grepet for kysten",
+        "headlineSource": "nrk-nordland",
+        "sourceCount": 1,
+        "score": 0.55,
+        "updated": "2026-11-02T20:55:14.000Z",
+        "tags": [
+          "politikk",
+          "okonomi",
+          "nordland"
+        ],
+        "articles": [
+          {
+            "source": "nrk-nordland",
+            "sourceName": "NRK Nordland",
+            "title": "Vil tvinge Ap til hurtigbåtkutt: – Neste store grepet for kysten",
+            "url": "https://www.nrk.no/nordland/vedum-vil-kutte-hurtigbatpriser-med-250-millioner-1.18071624",
+            "published": "2026-11-02T20:55:14.000Z"
+          }
+        ]
+      },
+      {
+        "id": "s49",
+        "headline": "Måtte betale en halv million etter skrekkulykke – i morgen starter ankesaken",
+        "headlineSource": "nrk-nordland",
+        "sourceCount": 1,
+        "score": 0.54,
+        "updated": "2026-11-02T20:27:42.000Z",
         "tags": [
           "nordland"
         ],
@@ -2453,20 +2471,20 @@
           {
             "source": "nrk-nordland",
             "sourceName": "NRK Nordland",
-            "title": "Truet kvinne med airsoftvåpen: Må møte i retten",
-            "url": "https://www.nrk.no/nordland/truet-kvinne-med-airsoftvapen_-ma-mote-i-retten-1.18070911",
-            "published": "2026-11-02T05:59:42.000Z"
+            "title": "Måtte betale en halv million etter skrekkulykke – i morgen starter ankesaken",
+            "url": "https://www.nrk.no/nordland/matte-betale-en-halv-million-etter-skrekkulykke-_-i-morgen-starter-ankesaken-1.18071595",
+            "published": "2026-11-02T20:27:42.000Z"
           }
         ]
       },
       {
-        "id": "s122",
-        "headline": "Medlemmene viste hvem som eier merkevaren Glimt",
+        "id": "s145",
+        "headline": "«Dette e Bodø Arena»",
         "headlineSource": "an",
         "sourceCount": 0,
         "opinion": true,
         "score": 0,
-        "updated": "2026-11-02T08:54:50.000Z",
+        "updated": "2026-11-03T08:04:37.000Z",
         "tags": [
           "nordland"
         ],
@@ -2474,21 +2492,21 @@
           {
             "source": "an",
             "sourceName": "Avisa Nordland",
-            "title": "Medlemmene viste hvem som eier merkevaren Glimt",
-            "url": "https://www.an.no/medlemmene-viste-hvem-som-eier-merkevaren-glimt/o/80-4-52955",
-            "published": "2026-11-02T08:54:50.000Z",
+            "title": "«Dette e Bodø Arena»",
+            "url": "https://www.an.no/dette-e-bodo-arena/o/80-4-53639",
+            "published": "2026-11-03T08:04:37.000Z",
             "opinion": true
           }
         ]
       },
       {
-        "id": "s121",
-        "headline": "Putins ryggslikkere",
+        "id": "s144",
+        "headline": "Om du trodde nordlendinger var sta, så har du ikke møtt den norske staten",
         "headlineSource": "an",
         "sourceCount": 0,
         "opinion": true,
         "score": 0,
-        "updated": "2026-11-02T08:49:19.000Z",
+        "updated": "2026-11-03T08:01:20.000Z",
         "tags": [
           "nordland"
         ],
@@ -2496,9 +2514,31 @@
           {
             "source": "an",
             "sourceName": "Avisa Nordland",
-            "title": "Putins ryggslikkere",
-            "url": "https://www.an.no/putins-ryggslikkere/o/80-4-52826",
-            "published": "2026-11-02T08:49:19.000Z",
+            "title": "Om du trodde nordlendinger var sta, så har du ikke møtt den norske staten",
+            "url": "https://www.an.no/om-du-trodde-nordlendinger-var-sta-sa-har-du-ikke-mott-den-norske-staten/o/80-4-53603",
+            "published": "2026-11-03T08:01:20.000Z",
+            "opinion": true
+          }
+        ]
+      },
+      {
+        "id": "s141",
+        "headline": "Ikke bare en seier for navne-skeptikerne",
+        "headlineSource": "an",
+        "sourceCount": 0,
+        "opinion": true,
+        "score": 0,
+        "updated": "2026-11-03T07:57:09.000Z",
+        "tags": [
+          "nordland"
+        ],
+        "articles": [
+          {
+            "source": "an",
+            "sourceName": "Avisa Nordland",
+            "title": "Ikke bare en seier for navne-skeptikerne",
+            "url": "https://www.an.no/ikke-bare-en-seier-for-navne-skeptikerne/o/80-4-53024",
+            "published": "2026-11-03T07:57:09.000Z",
             "opinion": true
           }
         ]
